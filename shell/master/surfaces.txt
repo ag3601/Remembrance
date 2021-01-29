@@ -165,11 +165,11 @@ surface3,24
 {
 element0,interpolate,surface20.png,0,0
 animation1.interval,runonce+random,6
-animation1.pattern0,overlay,112,0,0,0
-animation1.pattern1,overlay,112,80,0,0
-animation1.pattern2,overlay,122,120,0,0
-animation1.pattern3,overlay,122,50,0,0
-animation1.pattern4,overlay,112,50,0,0
+animation1.pattern0,overlay,115,0,0,0
+animation1.pattern1,overlay,115,80,0,0
+animation1.pattern2,overlay,125,120,0,0
+animation1.pattern3,overlay,125,50,0,0
+animation1.pattern4,overlay,115,50,0,0
 }
 
 //目ジト
@@ -183,6 +183,12 @@ animation1.pattern2,overlay,110,120,0,0
 animation1.pattern3,overlay,120,50,0,0
 animation1.pattern4,overlay,110,50,0,0
 }
+
+//目ジト照れ
+
+
+
+
 
 //目右見る
 surface8,205,305
