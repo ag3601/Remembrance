@@ -1,0 +1,7 @@
+開発ノート.txt
+surface0..apng
+update2.dau
+thumbnail.pnr
+cover.png
+54icon.ico
+ssu.dll
