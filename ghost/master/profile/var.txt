@@ -1,9 +1,0 @@
-Charset,UTF-8
-install,614996989
-homeurl_found,1
-surfacecount,235
-homeurl,http://nanachi.sakura.ne.jp/editor_sample/
-update_result,OK(2)
-firstboot,614996995
-commitmemorysize,8375367
-lastboot,665208146
