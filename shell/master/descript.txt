@@ -287,15 +287,6 @@ sakura.bindgroup1201.name,陰毛,少
 sakura.bindgroup1202.name,陰毛,大盛り
 
 
-//耳ピアス
-
-
-
-
-
-//マフラーなと
-
-
 
 sakura.menu,auto
 

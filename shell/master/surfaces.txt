@@ -104,7 +104,7 @@ animation1.pattern4,overlay,104,50,0,0
 
 
 //半目
-surface18,39-40,45,300,307
+surface1,17-18,39-40,45,300,307
 {
 element0,interpolate,surface20.png,0,0
 animation1.interval,runonce+random,6
@@ -126,6 +126,14 @@ animation1.pattern2,overlay,123,120,0,0
 animation1.pattern3,overlay,123,50,0,0
 animation1.pattern4,overlay,113,50,0,0
 }
+
+//半目照れ
+
+
+
+
+
+
 
 //目普通涙目
 surface2,34,59
@@ -176,24 +184,6 @@ animation1.pattern2,overlay,125,120,0,0
 animation1.pattern3,overlay,125,50,0,0
 animation1.pattern4,overlay,115,50,0,0
 }
-
-//目ジト
-surface7,17
-{
-element0,interpolate,surface20.png,0,0
-animation1.interval,runonce+random,6
-animation1.pattern0,overlay,110,0,0,0
-animation1.pattern1,overlay,110,80,0,0
-animation1.pattern2,overlay,110,120,0,0
-animation1.pattern3,overlay,120,50,0,0
-animation1.pattern4,overlay,110,50,0,0
-}
-
-//目ジト照れ
-
-
-
-
 
 //目右見る
 surface8,205,305
