@@ -104,7 +104,7 @@ animation1.pattern4,overlay,104,50,0,0
 
 
 //”¼–Ú
-surface1,17-18,39-40,45,300,307
+surface17-18,39-40,45
 {
 element0,interpolate,surface20.png,0,0
 animation1.interval,runonce+random,6
@@ -129,11 +129,16 @@ animation1.pattern4,overlay,113,50,0,0
 
 //”¼–ÚÆ‚ê
 
-
-
-
-
-
+surface300,307
+{
+element0,interpolate,surface20.png,0,0
+animation1.interval,runonce+random,6
+animation1.pattern0,overlay,114,0,0,0
+animation1.pattern1,overlay,114,80,0,0
+animation1.pattern2,overlay,124,120,0,0
+animation1.pattern3,overlay,124,50,0,0
+animation1.pattern4,overlay,114,50,0,0
+}
 
 //–Ú•’Ê—Ü–Ú
 surface2,34,59
