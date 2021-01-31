@@ -1,4 +1,4 @@
 charset, Shift_JIS
 type,ghost
-name,芥子の花（仮）
+name,芥子の花
 directory,Papaver

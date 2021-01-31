@@ -1,12 +1,12 @@
 charset,Shift_JIS
-name,芥子の花（仮）
+name,芥子の花
 type,ghost
 craftman,AG36
 craftmanw,AG36
 craftmanurl,https://twitter.com/AG3601
 readme,readme.txt
 sakura.name,パーチェ
-kero.name,ティア
+kero.name,
 sakura.seriko.defaultsurface,0
 kero.seriko.defaultsurface,10
 balloon.defaultsurface,0
