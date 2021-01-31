@@ -37,7 +37,7 @@ sakura.bindgroup3555.name,腕,ぶりっ子右
 sakura.bindgroup3555.addid,9554,3404
 sakura.bindgroup3556.name,腕,ぶりっ子左
 sakura.bindgroup3556.addid,9555,3405
-sakura.bindgroup3406.name,腕,軍服３用
+sakura.bindgroup3406.name,腕,軍服腕胸
 sakura.bindgroup3558.name,腕,胸手A右
 sakura.bindgroup3558.addid,9557,3406
 sakura.bindgroup3559.name,腕,胸手A左
@@ -127,12 +127,12 @@ sakura.bindgroup5008.name,下着下,レースパンツB白
 
 //ワンピース
 
-sakura.bindgroup8100.name,ワンピース,軍服黒１
-sakura.bindgroup8101.name,ワンピース,軍服黒２
-sakura.bindgroup8102.name,ワンピース,軍服黒３
-sakura.bindgroup8103.name,ワンピース,軍服白１
-sakura.bindgroup8104.name,ワンピース,軍服白２
-sakura.bindgroup8105.name,ワンピース,軍服白３
+sakura.bindgroup8100.name,ワンピース,軍服黒腕後
+sakura.bindgroup8101.name,ワンピース,軍服黒腕前
+sakura.bindgroup8102.name,ワンピース,軍服黒腕胸
+sakura.bindgroup8103.name,ワンピース,軍服白腕後
+sakura.bindgroup8104.name,ワンピース,軍服白腕前
+sakura.bindgroup8105.name,ワンピース,軍服白腕胸
 sakura.bindgroup8107.name,ワンピース,着物黄帯黒橡
 sakura.bindgroup8106.name,ワンピース,着物黄帯紅梅色
 sakura.bindgroup8108.name,ワンピース,着物黄帯竜胆色
@@ -333,21 +333,6 @@ sakura.bindgroup8018.name,スカート,ミドルスカート赤
 sakura.bindgroup8036.name,スカート,ロングスカート黒
 sakura.bindgroup8037.name,スカート,ロングスカート白
 sakura.bindgroup8038.name,スカート,ロングスカート赤
-sakura.bindgroup8021.name,スカート,ミニスカAグレー黒
-sakura.bindgroup8026.name,スカート,ミニスカA黒黒
-sakura.bindgroup8025.name,スカート,ミニスカA黒白
-sakura.bindgroup8022.name,スカート,ミニスカA白黒
-sakura.bindgroup8024.name,スカート,ミニスカA白白
-sakura.bindgroup8028.name,スカート,ミニスカA白赤
-sakura.bindgroup8023.name,スカート,ミニスカA赤白
-sakura.bindgroup8027.name,スカート,ミニスカAグレー白
-sakura.bindgroup8030.name,スカート,デニムミニスカート
-sakura.bindgroup8031.name,スカート,デニムミニスカート黒
-sakura.bindgroup8032.name,スカート,デニムミニスカートグレー
-sakura.bindgroup8033.name,スカート,デニムミニスカート赤
-sakura.bindgroup8034.name,スカート,ミニスカC黒
-sakura.bindgroup8035.name,スカート,ミニスカC白
-sakura.bindgroup8029.name,スカート,ミニスカC赤
 sakura.bindgroup8001.name,スカート,プリーツスカート１黒
 sakura.bindgroup8002.name,スカート,プリーツスカート１白
 sakura.bindgroup8003.name,スカート,プリーツスカート１赤
@@ -534,7 +519,7 @@ sakura.bindgroup15045.name,髪アクセサリー,花１右
 sakura.bindgroup15046.name,髪アクセサリー,花１左
 sakura.bindgroup15047.name,髪アクセサリー,花２右
 sakura.bindgroup15048.name,髪アクセサリー,花２左
-sakura.bindgroup15049.name,髪アクセサリー,狐面
+
 
 //帽子
 
