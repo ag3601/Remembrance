@@ -619,14 +619,14 @@ surface68
 {
 element6,overlay,surface85.png,0,0
 
-animation4.interval,talk
-animation4.pattern0,overlay,90,0,0,0
-animation4.pattern1,overlay,85,90,0,0
-animation4.pattern2,overlay,91,90,0,0
-animation4.pattern3,overlay,94,90,0,0
-animation4.pattern4,overlay,90,90,0,0
-animation4.pattern5,overlay,91,90,0,0
-animation4.pattern6,overlay,85,90,0,0
+//animation4.interval,talk
+//animation4.pattern0,overlay,90,0,0,0
+//animation4.pattern1,overlay,85,90,0,0
+//animation4.pattern2,overlay,91,90,0,0
+//animation4.pattern3,overlay,94,90,0,0
+//animation4.pattern4,overlay,90,90,0,0
+//animation4.pattern5,overlay,91,90,0,0
+//animation4.pattern6,overlay,85,90,0,0
 }
 
 //ムッとした口（無表情１）
