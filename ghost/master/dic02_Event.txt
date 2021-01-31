@@ -211,43 +211,49 @@
 
 
 ＊OnUpdate.OnDownloadBegin
-：（Ｒ０）をダウンロード中です。
+：（Ｒ０）（０）ふむふむ。
 
 ＃ \_qはメッセージを一瞬で表示する「さくらスクリプト」。
 
 ＊OnUpdate.OnMD5CompareBegin
-：\_q（Ｒ０）のMD5照合を行います。\_q
+：\_q（Ｒ０）手紙の写しもあるわね。\_q
 
 ＊OnUpdate.OnMD5CompareComplete
-：君\_q　（Ｒ１）\_q
-僕\_q　（Ｒ２）\_q
-一致。
+：（０）元\_q　（Ｒ１）\_q
+
+写し\_q　（Ｒ２）\_q
+
+大丈夫ね。
 
 ＊OnUpdate.OnMD5CompareFailure
-：君\_q　（Ｒ１）\_q
-僕\_q　（Ｒ２）\_q
-不一致……あれ？
+：（０）元\_q　（Ｒ１）\_q
+
+写し\_q　（Ｒ２）\_q
+
+（６４）一致しないわね、何かあったのかしら？
 
 
 ＊OnUpdateBegin
-：更新情報を取得中です……
+：（０）あら、ｗ５芥子の妖精達からの手紙ね。ｗ９
+
+何かあったのかしら？
 
 ＊OnUpdateComplete
 ＞ネットワーク更新（Ｒ０）
 ：成功したそうですが……（Ｒ０）との報告がありました。意味はわかりません。
 
 ＊OnUpdatedataCreated
-：完了っ。
+：（０）完了したわ。
 
 ＊OnUpdatedataCreating
-：updates2.dau作成中～
+：updates2.dau作成ね
 
 ＊OnUpdateFailure
 ＞ネットワーク更新（Ｒ０）
 ：ネットワーク更新に失敗しました。理由は（Ｒ０）だそうですが、意味はわかりません。
 
 ＊OnUpdateReady
-：（Ｒ０）個のファイルが更新されています。
+：手紙は（Ｒ０）枚あるわね。
 
 ＊OnURLDropped
 ：ダウンロードが終りました。
