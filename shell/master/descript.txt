@@ -294,22 +294,6 @@ sakura.bindgroup7620.name,トップ,パーカー３赤
 sakura.bindgroup7621.name,トップ,パーカー３灰色
 sakura.bindgroup7622.name,トップ,パーカー３水色
 sakura.bindgroup7623.name,トップ,パーカー３黄色
-sakura.bindgroup8122.name,トップ,着物上黄帯黒橡
-sakura.bindgroup8123.name,トップ,着物上黄帯紅梅色
-sakura.bindgroup8124.name,トップ,着物上黄帯竜胆色
-sakura.bindgroup8125.name,トップ,着物上黄帯花緑青
-sakura.bindgroup8126.name,トップ,着物上黄帯濃海老茶
-sakura.bindgroup8127.name,トップ,着物上黄帯濃紺桔梗
-sakura.bindgroup8128.name,トップ,着物上黄帯濃胆礬色
-sakura.bindgroup8129.name,トップ,着物上桃帯黒橡
-sakura.bindgroup8130.name,トップ,着物上桃帯紅梅色
-sakura.bindgroup8131.name,トップ,着物上桃帯竜胆色
-sakura.bindgroup8132.name,トップ,着物上桃帯花緑青
-sakura.bindgroup8133.name,トップ,着物上桃帯濃海老茶
-sakura.bindgroup8134.name,トップ,着物上桃帯濃紺桔梗
-sakura.bindgroup8135.name,トップ,着物上桃帯濃胆礬色
-sakura.bindgroup8136.name,トップ,着物上紅の八塩
-sakura.bindgroup8137.name,トップ,着物上月白
 
 
 //スカート
@@ -459,6 +443,7 @@ sakura.bindgroup5317.name,靴,ハイヒール黒
 sakura.bindgroup5318.name,靴,ハイヒール白
 sakura.bindgroup5319.name,靴,ハイヒール赤
 sakura.bindgroup5320.name,靴,ブーツ黒
+sakura.bindgroup5327.name,靴,ブーツ白
 sakura.bindgroup5321.name,靴,ブーツ赤
 sakura.bindgroup5322.name,靴,ブーツ茶
 sakura.bindgroup5323.name,靴,上履き
@@ -494,11 +479,6 @@ sakura.bindgroup15020.name,髪アクセサリー,ウザミミリボン赤
 sakura.bindgroup15021.name,髪アクセサリー,カチューシャ黒
 sakura.bindgroup15022.name,髪アクセサリー,カチューシャ白
 sakura.bindgroup15023.name,髪アクセサリー,カチューシャ赤
-sakura.bindgroup15024.name,髪アクセサリー,チャイナドレスの団子黒
-sakura.bindgroup15025.name,髪アクセサリー,チャイナドレスの団子白
-sakura.bindgroup15028.name,髪アクセサリー,チャイナドレスの団子グレー
-sakura.bindgroup15026.name,髪アクセサリー,チャイナドレスの団子赤濃
-sakura.bindgroup15027.name,髪アクセサリー,チャイナドレスの団子赤薄
 sakura.bindgroup15032.name,髪アクセサリー,大きなリボン黒
 sakura.bindgroup15033.name,髪アクセサリー,大きなリボン白
 sakura.bindgroup15034.name,髪アクセサリー,大きなリボン赤
@@ -565,6 +545,10 @@ sakura.bindgroup8407.name,上着,カーディガン開茶
 
 sakura.bindgroup8500.name,外套,白衣
 sakura.bindgroup8501.name,外套,白衣黒
+sakura.bindgroup8502.name,外套,ケープ白
+sakura.bindgroup8503.name,外套,ケープ黒
+sakura.bindgroup8504.name,外套,ケープ赤
+sakura.bindgroup8505.name,外套,ケープ茶
 
 
 //エフロン

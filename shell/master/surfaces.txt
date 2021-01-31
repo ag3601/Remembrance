@@ -68,7 +68,7 @@ element3,overlay,surface122.png,0,0
 }
 
 //目普通
-surface0,5-6,53,64-66
+surface0,5-6,53,55,64-66
 {
 element0,interpolate,surface20.png,0,0
 animation1.interval,runonce+random,6
@@ -107,7 +107,7 @@ animation1.pattern4,overlay,104,50,0,0
 
 
 //半目
-surface7,17-18,39-40,45,55,63,67
+surface7,17-18,39-40,45,63,67
 {
 element0,interpolate,surface20.png,0,0
 animation1.interval,runonce+random,6
@@ -993,54 +993,6 @@ animation8121.interval,bind
 animation8121.pattern0,bind,8121,0,0,0
 animation8121.collision8121,246,483,296,530,Hand
 animation8121.collisionex81021,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8122.interval,bind
-animation8122.pattern0,bind,8122,0,0,0
-animation8122.collision8122,246,483,296,530,Hand
-animation8123.interval,bind
-animation8123.pattern0,bind,8123,0,0,0
-animation8123.collision8123,246,483,296,530,Hand
-animation8124.interval,bind
-animation8124.pattern0,bind,8124,0,0,0
-animation8124.collision8124,246,483,296,530,Hand
-animation8125.interval,bind
-animation8125.pattern0,bind,8125,0,0,0
-animation8125.collision8125,246,483,296,530,Hand
-animation8126.interval,bind
-animation8126.pattern0,bind,8126,0,0,0
-animation8126.collision8126,246,483,296,530,Hand
-animation8127.interval,bind
-animation8127.pattern0,bind,8127,0,0,0
-animation8127.collision8127,246,483,296,530,Hand
-animation8128.interval,bind
-animation8128.pattern0,bind,8128,0,0,0
-animation8128.collision8128,246,483,296,530,Hand
-animation8129.interval,bind
-animation8129.pattern0,bind,8129,0,0,0
-animation8129.collision8129,246,483,296,530,Hand
-animation8130.interval,bind
-animation8130.pattern0,bind,8130,0,0,0
-animation8130.collision8130,246,483,296,530,Hand
-animation8131.interval,bind
-animation8131.pattern0,bind,8131,0,0,0
-animation8131.collision8131,246,483,296,530,Hand
-animation8132.interval,bind
-animation8132.pattern0,bind,8132,0,0,0
-animation8132.collision8132,246,483,296,530,Hand
-animation8133.interval,bind
-animation8133.pattern0,bind,8133,0,0,0
-animation8133.collision8133,246,483,296,530,Hand
-animation8134.interval,bind
-animation8134.pattern0,bind,8134,0,0,0
-animation8134.collision8134,246,483,296,530,Hand
-animation8135.interval,bind
-animation8135.pattern0,bind,8135,0,0,0
-animation8135.collision8135,246,483,296,530,Hand
-animation8136.interval,bind
-animation8136.pattern0,bind,8136,0,0,0
-animation8136.collision8136,246,483,296,530,Hand
-animation8137.interval,bind
-animation8137.pattern0,bind,8137,0,0,0
-animation8137.collision8137,246,483,296,530,Hand
 animation8138.interval,bind
 animation8138.pattern0,bind,8138,0,0,0
 animation8138.collision8138,246,483,296,530,Hand
@@ -1650,7 +1602,8 @@ animation5325.interval,bind
 animation5325.pattern0,bind,49025,0,0,0
 animation5326.interval,bind
 animation5326.pattern0,bind,49026,0,0,0
-
+animation5327.interval,bind
+animation5327.pattern0,bind,49027,0,0,0
 
 //髪アクセサリー
 
@@ -1702,16 +1655,6 @@ animation15022.interval,bind
 animation15022.pattern0,bind,15022,0,0,0
 animation15023.interval,bind
 animation15023.pattern0,bind,15023,0,0,0
-animation15024.interval,bind
-animation15024.pattern0,bind,15024,0,0,0
-animation15025.interval,bind
-animation15025.pattern0,bind,15025,0,0,0
-animation15026.interval,bind
-animation15026.pattern0,bind,15026,0,0,0
-animation15027.interval,bind
-animation15027.pattern0,bind,15027,0,0,0
-animation15028.interval,bind
-animation15028.pattern0,bind,15028,0,0,0
 animation15029.interval,bind
 animation15029.pattern0,bind,15029,0,0,0
 animation15030.interval,bind
@@ -1834,6 +1777,14 @@ animation8500.interval,bind
 animation8500.pattern0,bind,8500,0,0,0
 animation8501.interval,bind
 animation8501.pattern0,bind,8501,0,0,0
+animation8502.interval,bind
+animation8502.pattern0,bind,8502,0,0,0
+animation8503.interval,bind
+animation8503.pattern0,bind,8503,0,0,0
+animation8504.interval,bind
+animation8504.pattern0,bind,8504,0,0,0
+animation8505.interval,bind
+animation8505.pattern0,bind,8505,0,0,0
 
 
 //エフロン
