@@ -20,8 +20,8 @@
 
 ＿なんでもない
 
-＊ポストと話したい
-：はい、何でしょう。\![open,communicatebox]
+＊手動コミュ
+\![open,communicatebox]
 
 
 ＊喋り頻度

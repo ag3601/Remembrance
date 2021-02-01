@@ -12,17 +12,17 @@
 
 
 ＠callghostrootbutton.caption
-他のゴーストさんをここに呼び出せますφ…。
+誰を呼び出すの？
 ＠closebutton.caption
-わたしが退場しますφ…。
+席を離れる
 ＠configurationrootbutton.caption
-いろいろ設定できますφ…。
+いろいろ設定できるわ
 ＠elpbutton.caption
-便利な機能が、いっぱいφ…。
+便利な機能があるらしいわ
 ＠ghostrootbutton.caption
-ゴーストさんはここから選べ、ますφ…。
+出かけるの？
 ＠helpbutton.caption
-分からないことがあったら、ここをφ…。
+ベースウェアの説明書よ
 ＠homeurl
 https://raw.githubusercontent.com/ag3601/Papaver/master/
 
@@ -31,65 +31,37 @@ https://raw.githubusercontent.com/ag3601/Papaver/master/
 ＃例）http://red_post.sakura.ne.jp/R_POST_and_KOMAINU/
 
 ＠inforootbutton.caption
-いんふぉめーしょんφ…。
+書類の山
 ＠kero.recommendbuttoncaption
 ￥１のおすすめ(&R)
 
 ＠pluginrootbutton.caption
-プラグインでいろんな機能が増えるそう、ですφ…。
+プラグインよ
 ＠portalrootbutton.caption
-きほん(&P)
-（５４名前）に、出来ることφ…。(&P)
+伺か関係のリンク
 ＃（U）だけの、おすすめφ…。(&P)
 
 ＠rateofuseballoonbutton.caption
-バルーンの変更は、ここからφ…。
+バルーンの変更はここよ
 ＠readmebutton.caption
-読んでくださいφ…。(&R)
-あの、ここφ…。(&R)
-Read　me(&R)
-
+注意書きよ
 ＠recommendrootbutton.caption
-おすすめ(&R)
-とても、すてきなところへφ…。(&R)
-うれしい、きもち。(&R)
-行くと、きっと、しあわせ、にφ…。(&R)
-ありがとうの、きもちφ…。(&R)
-
-＠resettodefaultbutton.caption
-設定をもとどおりにできますφ…。
+原作へ
 ＊sakura.portalsites
-伺かチャット
-http://ukgkchat.saloon.jp/index.php?FrontPage
-＊sakura.portalsites
-SSP　BUGTRAQ　
-http://ssp.shillest.net/　
-推奨ベースウェア。
-他のは更新が止まってる。
-
-
-CROW　
-http://crow.aqrs.jp/　
+伺かのあそびかたφ（FIRST　GUIDEφ）　
+http://haka.sakura.ne.jp/guide/　
 
 ＊sakura.portalsites
--
+UKADOC　
+http://ssp.shillest.net/ukadoc/manual/index.html
 
 ＊sakura.portalsites
-Disc-2　
-http://disc2.s56.xrea.com/　
-\h総合情報サイトです。
-
+里々Wiki
+http://soliton.sub.jp/satori/index.php?FrontPage
+\h里々に関するＴｉｐがまとまっているような気がします。
 ＊sakura.portalsites
-うさださくら　
-http://usada.sakura.vg/　
-
-＊sakura.portalsites
-GHOST　TOWN　
-http://ghosttown.mikage.jp/　
-
-＊sakura.portalsites
-何かゴーストセンター　
-http://ngc.sherry.jp/　
+ゴーストキャプターさくら（GCさくら）
+http://buynowforsale.shillest.net/ghosts/
 
 ＊sakura.portalsites
 -
@@ -99,62 +71,33 @@ http://ngc.sherry.jp/　
 http://ms.shillest.net/
 \h現時点で更新されている里々です。
 
+＊sakura.portalsites
+SSP　BUGTRAQ　
+http://ssp.shillest.net/　
+推奨ベースウェア。
+他のは更新が止まってる。
 
-＊sakura.portalsites
-里々φ（さとりφ）　
-http://ukgk.s34.xrea.com/poskoma/
 
-＊sakura.portalsites
-ゴーストキャプターさくら（GCさくら）
-http://buynowforsale.shillest.net/ghosts/
-
-＊sakura.portalsites
-里々Wiki
-http://soliton.sub.jp/satori/index.php?FrontPage
-\h里々に関するＴｉｐがまとまっているような気がします。
-＊sakura.portalsites
-UKADOC　
-http://ssp.shillest.net/ukadoc/manual/index.html
-
-＊sakura.portalsites
-postic
-http://navy.nm.land.to/post/
 ＊sakura.portalsites
 -
-
-＊sakura.portalsites
-伺かのあそびかたφ（FIRST　GUIDEφ）　
-http://haka.sakura.ne.jp/guide/　
-
-＊sakura.portalsites
-ghost-log
-https://ghost-log.net/
-
-
-＃＊sakura.recommendsites
-＃-
-＃http://
-＃
-
-＃＊kero.recommendsites
-＃-
-＃http://
-＃ソロゴーストであれば、kero側は必要ないことも。
-
-＃　φは直後の文字の「特殊性」を無効化します。
-＃　ここでは「…」がそのままでは「…\w3」に置き換えられてしまうのを防いでます。
-＃　他にも置き換えたくないカッコ　（　などに使えます。
-＊sakura.portalsites
-ゴースト回覧板３ｒｄ
-http://jbbs.shitaraba.net/computer/44300/
 
 ＊sakura.portalsites
 噂と評判[改]　過去ログ保管庫+　
 https://ghostreview.sakura.ne.jp/
 
+＊sakura.portalsites
+ゴースト回覧板３ｒｄ
+http://jbbs.shitaraba.net/computer/44300/
+
+
+
 ＊sakura.recommendsites
-オリジナル「54」の配布サイト
-http://priest.so.land.to/54_/54.html
+薬の魔物の継続理由
+https://ncode.syosetu.com/n1031fh/r
+＊sakura.recommendsites
+薬の魔物の解雇理由
+https://ncode.syosetu.com/n2357dn/
+
 
 ＃＊sakura.portalsites
 ＃-
@@ -163,49 +106,21 @@ http://priest.so.land.to/54_/54.html
 
 ＠saveasdefaultbutton.caption
 今の設定を全部のゴーストさんに反映させられますφ…。
-＠shellrootbutton.caption
-すてきな、おめかしですφ…。
+＠dressuprootbutton.caption
+気になる服をリクエストしていいわよ
 ＠shellscalerootbutton.caption
-わたしの大きさをφ…自由に変更できますφ…。
+もっとくつけて
 ＠shellscalerootbutton.caption
-わたしの体をφ…自由、にφ…。
+もっと私に近寄って
 ＠updatebutton.caption
-オンラインアップデート(&U)
-ネットワーク更新(&U)
-更新、なんだか不安ですφ…。(&U)
-更新、わたしに、うまくできるでしょうか？(&U)
-なにかが、変わるのでしょう、かφ…。(&U)
-これで、しあわせにφ…なれるでしょうかφ…？(&U)
+新しい手紙があるかもしれないわ
 ＠username
 （ユーザ名）　
 
 ＠vanishbutton.caption
 消滅(&F)
 アンインストール(&F)
-覚悟は出来てます。(&F)
-
 ＠vanishbutton.visible
-（消滅ボタン）
-
-＃消滅指示を表示するかどうか。1で表示、0で非表示（色が変わり選択できなくなる）です。
-
-＊コメント
-
-　URL一覧は……　
-
-　１行目がサイト名　
-　２行目がジャンプ先URL　
-　３行目がバナーURL（省略可）　
-　４行目以降はジャンプ時に表示される会話文（省略可）　
-
-
-＃＊sakura.recommendsites
-＃作者のサイト。ここを使わずに、sakura.portalsitesにまとめてしまうのも一つの方法。　
-＃http://～　
-＃バナー（あれば）　
-
-
-＠vanishbuttonvisible
 （消滅ボタン）
 
 ＃消滅指示を表示するかどうか。1で表示、0で非表示（色が変わり選択できなくなる）です。
