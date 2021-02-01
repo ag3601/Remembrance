@@ -22,7 +22,6 @@ file,ghost/master/satori.dll16752c1548945960595ff1a3deda6d09size=684032
 file,ghost/master/satori_conf.txt880cf8a730d22892676f97b48181911bsize=657
 file,ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944
 file,install.txt9bbd356d10e2ab23df281982fc20faa8size=76
-file,note.txt98d8e7b8c36a436e7ca29e3e42023a9asize=1263
 file,readme.txt0e76a78e3f6680db8f72f87f95b4e4d4size=1596
 file,shell/master/descript.txt842fdd37c669ffaa2cdb5144dd1e7542size=28119
 file,shell/master/install.txtb77705356f0c4f654d79905ed379f4c4size=58
