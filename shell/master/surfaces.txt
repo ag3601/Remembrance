@@ -8,7 +8,7 @@ Version,1
 
 //素体
 
-surface0-9,11-76,200-212,300-312
+surface0-9,11-79,200-212,300-312
 {
 element2,overlay,surface0000.png,0,0
 collisionex0,Head,polygon,212,170,228,148,251,136,293,136,316,148,331,170
@@ -33,7 +33,7 @@ collisionex10,xxx,circle,270,529,10
 
 
 //目閉じ
-surface15,37,42,70
+surface15,37,42,70,79
 {
 element3,overlay,surface120.png,0,0
 }
@@ -68,7 +68,7 @@ element3,overlay,surface122.png,0,0
 }
 
 //目普通
-surface0,5-6,53,55,64-66
+surface0,5-6,53,55,64-66,77
 {
 element0,interpolate,surface20.png,0,0
 animation1.interval,runonce+random,6
@@ -107,7 +107,7 @@ animation1.pattern4,overlay,104,50,0,0
 
 
 //半目
-surface7,17-18,39-40,45,63,67
+surface7,17-18,39-40,45,63,67,78
 {
 element0,interpolate,surface20.png,0,0
 animation1.interval,runonce+random,6
@@ -519,7 +519,7 @@ element5,overlay,surface53.png,0,0
 
 //眉不快
 
-surface7,22,17,53,63,65
+surface7,22,17,53,63,65,77-79
 {
 element5,overlay,surface54.png,0,0
 }
@@ -547,7 +547,7 @@ element5,overlay,surface57.png,0,0
 
 //口普通（ん～）
 
-surface1,3-4,11,6,15-16,9,19-21,27-30,41-43,46-47,49-52,54-65,200-206,211,300-306,311
+surface1,3-4,11,6,15-16,9,19-21,27-30,41-43,46-47,49-52,54-65,74-79,200-206,211,300-306,311
 {
 element6,overlay,surface80.png,0,0
 
@@ -631,7 +631,7 @@ element6,overlay,surface85.png,0,0
 
 //ムッとした口（無表情１）
 
-surface7-8,12-14,17-18,22-23,31,33-36,44,74-76,207-210,212,307-310,312
+surface7-8,12-14,17-18,22-23,31,33-36,44,207-210,212,307-310,312
 {
 element6,overlay,surface83.png,0,0
 
@@ -689,7 +689,7 @@ element8,overlay,surface133.png,0,0
 
 //着せ替え
 
-surface0-9,10-76
+surface0-9,10-79
 {
 //人・エルフ耳
 
@@ -708,7 +708,7 @@ animation600.pattern0,bind,620,0,0,0
 }
 
 
-surface0-9,11-76,200-212,300-312
+surface0-9,11-79,200-212,300-312
 {
 
 //前髪
