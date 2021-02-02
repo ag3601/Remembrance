@@ -16,7 +16,7 @@ readme,readme.txt
 
 //˜r
 
-sakura.bindgroup3600.default,1
+sakura.bindgroup3551.default,1
 sakura.bindoption0.group,˜r,mustselect
 sakura.bindgroup3600.name,˜r,ƒfƒtƒHƒ‹ƒg
 sakura.bindgroup3550.name,˜r,‰º‚ë‚µ—¼è

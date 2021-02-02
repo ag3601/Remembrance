@@ -107,7 +107,7 @@ animation1.pattern4,overlay,104,50,0,0
 
 
 //îºñ⁄
-surface5,7,17-18,39-40,45,63,67,78
+surface5,7,18,39-40,45,63,67,78
 {
 element0,interpolate,surface20.png,0,0
 animation1.interval,runonce+random,6
@@ -119,7 +119,7 @@ animation1.pattern4,overlay,110,50,0,0
 }
 
 //îºñ⁄è∆ÇÍ1
-surface1,14,48,51,69,72,75
+surface1,14,17,48,51,69,72,75
 {
 element0,interpolate,surface20.png,0,0
 animation1.interval,runonce+random,6
