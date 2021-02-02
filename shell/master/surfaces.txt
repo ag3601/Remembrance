@@ -565,7 +565,7 @@ animation4.pattern7,overlay,80,100,0,0
 
 //ŒûƒjƒR¬
 
-surface0,5,37-38,40,45,48
+surface0,37-38,40,45,48
 {
 element6,overlay,surface81.png,0,0
 
