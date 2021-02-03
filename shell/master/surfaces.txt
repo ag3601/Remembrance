@@ -65,6 +65,7 @@ element0,interpolate,surface20.png,0,0
 surface16,25
 {
 element3,overlay,surface122.png,0,0
+element0,interpolate,surface20.png,0,0
 }
 
 //–Ú•’Ê
