@@ -8,7 +8,7 @@ Version,1
 
 //素体
 
-surface0-9,11-79,200-212,300-312
+surface0-9,11-80,200-212,300-312
 {
 element2,overlay,surface0000.png,0,0
 collisionex0,Head,polygon,212,170,228,148,251,136,293,136,316,148,331,170
@@ -107,7 +107,7 @@ animation1.pattern4,overlay,104,50,0,0
 
 
 //半目
-surface5,7,18,39-40,45,63,67,78
+surface5,7,18,39-40,45,63,67,78,80
 {
 element0,interpolate,surface20.png,0,0
 animation1.interval,runonce+random,6
@@ -233,7 +233,7 @@ animation1.pattern4,overlay,106,50,0,0
 //animation1.pattern1,overlay,102,80,0,0
 //animation1.pattern2,overlay,112,120,0,0
 //animation1.pattern3,overlay,122,50,0,0
-//animation1.pattern4,overlay,101,50,0,0
+//animation1.pattern4,overlay,102,50,0,0
 //}
 
 //目右見る
@@ -498,7 +498,7 @@ element5,overlay,surface50.png,0,0
 
 //眉悲
 
-surface16,3-4,21,19,23,28-29,36,39,42-43,46-47,51,55,56-61
+surface16,3-4,21,19,23,28-29,36,39,42-43,46-47,51,55,56-61,80
 {
 element5,overlay,surface51.png,0,0
 }
@@ -547,7 +547,7 @@ element5,overlay,surface57.png,0,0
 
 //口普通（ん～）
 
-surface1,3-5,11,6,15-16,9,19-21,27-30,41-43,46-47,49-52,54-65,74-79,200-206,211,300-306,311
+surface1,3-5,11,6,15-16,9,19-21,27-30,41-43,46-47,49-52,54-65,74-80,200-206,211,300-306,311
 {
 element6,overlay,surface80.png,0,0
 
@@ -661,18 +661,6 @@ animation4.pattern5,overlay,91,90,0,0
 animation4.pattern6,overlay,94,90,0,0
 }
 
-//息
-//surface63
-//{
-//element7,overlay,surface130.png,0,0
-//}
-
-//息大
-//surface63
-//{
-//element7,overlay,surface131.png,0,0
-//}
-
 //湯気
 surface200-212
 {
@@ -689,7 +677,7 @@ element8,overlay,surface133.png,0,0
 
 //着せ替え
 
-surface0-9,10-79
+surface0-9,11-80
 {
 //人・エルフ耳
 
@@ -708,7 +696,7 @@ animation600.pattern0,bind,620,0,0,0
 }
 
 
-surface0-9,11-79,200-212,300-312
+surface0-9,11-80,200-212,300-312
 {
 
 //前髪

@@ -24,7 +24,3 @@
 ＄誕生日教えた	０
 ＄コミュメニュータイプ	ランダム
 ＄前回ユーザ誕生日	０
-
-＠SAORI
-time_check,saori/time_check.dll
-aya,saori/yaya.dll

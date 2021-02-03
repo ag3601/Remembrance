@@ -236,7 +236,7 @@
 
 
 ＊OnWindowStateRestore
-：？
+：（０）？
 
 
 ＊rが押された
