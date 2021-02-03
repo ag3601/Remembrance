@@ -132,7 +132,7 @@ animation1.pattern4,overlay,113,50,0,0
 
 //”¼–ÚÔ1
 
-surface200,207,300,307
+surface,200,207,300,307
 {
 element0,interpolate,surface20.png,0,0
 animation1.interval,runonce+random,6
