@@ -133,7 +133,7 @@ animation1.pattern4,overlay,463,50,0,0
 
 //”¼–ÚÔ1
 
-surface,200,207,300,307
+surface200,207,300,307
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
@@ -186,21 +186,21 @@ animation1.pattern3,overlay,472,50,0,0
 animation1.pattern4,overlay,462,50,0,0
 }
 
-//–Ú•’Ê—Ü–Ú
-//surface
-//{
-//element0,interpolate,surface370.png,0,0
-//animation1.interval,runonce+random,6
-//animation1.pattern0,overlay,451,0,0,0
-//animation1.pattern1,overlay,451,80,0,0
-//animation1.pattern2,overlay,461,120,0,0
-//animation1.pattern3,overlay,471,50,0,0
-//animation1.pattern4,overlay,451,50,0,0
-//}
+–Ú•’Ê—Ü–Ú
+surface2
+{
+element0,interpolate,surface370.png,0,0
+animation1.interval,runonce+random,6
+animation1.pattern0,overlay,451,0,0,0
+animation1.pattern1,overlay,451,80,0,0
+animation1.pattern2,overlay,461,120,0,0
+animation1.pattern3,overlay,471,50,0,0
+animation1.pattern4,overlay,451,50,0,0
+}
 
 //–Ú•’Ê—Ü–ÚÆ‚ê1
 
-surface2,34
+surface34
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6

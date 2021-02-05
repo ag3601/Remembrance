@@ -48,13 +48,6 @@ sakura.bindgroup3561.name,˜r,‰º‚ë‚µ¶
 sakura.bindgroup3561.addid,3411
 
 
-//¨
-
-sakura.bindgroup600.default,1
-sakura.bindoption0.group,¨,mustselect
-sakura.bindgroup600.name,¨,l¨
-
-
 //‘O”¯
 
 sakura.bindoption0.group,‘O”¯,mustselect
