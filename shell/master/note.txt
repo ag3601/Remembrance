@@ -27,7 +27,23 @@ Added 350 to filename of surfaces under 500, compare with the gliched legacy ver
 
 Do not share the same surface number for manually assigned surfaces with materials unless you wants to see noface.
 
+没
 
+//栗みたいな口（う）
+
+surface39,53
+{
+element6,overlay,surface444.png,0,0
+
+animation4.interval,talk
+animation4.pattern0,overlay,440,0,0,0
+animation4.pattern1,overlay,444,90,0,0
+animation4.pattern2,overlay,441,90,0,0
+animation4.pattern3,overlay,444,90,0,0
+animation4.pattern4,overlay,440,90,0,0
+animation4.pattern5,overlay,441,90,0,0
+animation4.pattern6,overlay,444,90,0,0
+}
 
 
 
