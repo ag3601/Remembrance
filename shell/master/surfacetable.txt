@@ -2,7 +2,7 @@ charset,Shift_JIS
 version,1
 option,DisableNoDefineSurfaces
 
-//‰¼
+//ŠHq‚Ì‰Ô—p
 
 0,\0‘f
 1,\0Æ‚ê
