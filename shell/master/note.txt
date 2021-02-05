@@ -23,7 +23,9 @@
 444　う
 
 
-filename add 350 to surfaces under 500
+Added 350 to filename of surfaces under 500, compare with the gliched legacy version for file table.
+
+Do not share the same surface number for manually assigned surfaces with materials unless you wants to see noface.
 
 
 
