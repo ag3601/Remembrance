@@ -111,7 +111,7 @@
 
 ＊OnShellChanged
 ：
-（１）どぉ？
+（７１）どぉ？
 ＊OnShellChanging
 ：
 （0）ちょっと服を直してくるわ。
