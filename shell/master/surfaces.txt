@@ -334,6 +334,19 @@ animation1.pattern2,overlay,463,120,0,0
 animation1.pattern3,overlay,473,50,0,0
 animation1.pattern4,overlay,453,50,0,0
 }
+
+//–Ú‰ºŒ©‚éÔ–Ê1—Ü–Ú–ÚŠJ‚«
+surface19
+{
+element0,interpolate,surface372.png,0,0
+animation1.interval,runonce+random,6
+animation1.pattern0,overlay,456,0,0,0
+animation1.pattern1,overlay,456,80,0,0
+animation1.pattern2,overlay,466,120,0,0
+animation1.pattern3,overlay,476,50,0,0
+animation1.pattern4,overlay,456,50,0,0
+}
+
 //–Ú‰ºŒ©‚éÔ–Ê1
 surface203,210,303,310
 {
@@ -418,7 +431,7 @@ animation1.pattern4,overlay,466,50,0,0
 }
 //–Ú‰ºŒ©‚é—Ü–Ú
 
-surface19,28
+surface28
 {
 element0,interpolate,surface372.png,0,0
 animation1.interval,runonce+random,6
