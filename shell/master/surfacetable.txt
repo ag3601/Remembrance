@@ -86,6 +86,7 @@ option,DisableNoDefineSurfaces
 80,\0心配むむむ半目眉悲
 
 
+
 //湯気
 
 200,\0照れ湯気
