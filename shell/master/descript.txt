@@ -47,12 +47,24 @@ sakura.bindgroup3560.addid,3410
 sakura.bindgroup3561.name,˜r,‰º‚ë‚µ¶
 sakura.bindgroup3561.addid,3411
 
+//¨
+
+sakura.bindgroup600.default,1
+sakura.bindgroup600.name,¨,l¨
+
+//”û–Ñ
+
+sakura.bindoption0.group,‘O”¯,mustselect
+sakura.bindgroup400.default,1
+sakura.bindgroup400.name,”û–Ñ,”û–Ñ•’Ê
 
 //‘O”¯
 
 sakura.bindoption0.group,‘O”¯,mustselect
-sakura.bindgroup14005.default,1
-sakura.bindgroup14005.name,‘O”¯,Mš‚Q
+sakura.bindgroup14021.default,1
+sakura.bindgroup14021.name,‘O”¯,Mš‚Q
+”sakura.bindgroup221.name,‘O”¯,Mš‚Q
+sakura.bindgroup14021.addid,221
 
 
 //Œã”¯

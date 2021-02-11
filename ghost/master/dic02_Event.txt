@@ -127,7 +127,7 @@
 ＄r_talk	（）
 （r_talk）
 ＊OnUpdate.OnDownloadBegin
-：（Ｒ０）（０）ふむふむ。
+：（Ｒ０）（５）ふむふむ。
 
 ＃ \_qはメッセージを一瞬で表示する「さくらスクリプト」。
 
@@ -135,23 +135,23 @@
 ：\_q（Ｒ０）手紙の写しもあるわね。\_q
 
 ＊OnUpdate.OnMD5CompareComplete
-：（０）元\_q　（Ｒ１）\_q
+：（５）元\_q　（Ｒ１）\_q
 
 写し\_q　（Ｒ２）\_q
 
 大丈夫ね。
 
 ＊OnUpdate.OnMD5CompareFailure
-：（０）元\_q　（Ｒ１）\_q
+：（５）元\_q　（Ｒ１）\_q
 
 写し\_q　（Ｒ２）\_q
 
-（６４）一致しないわね、何かあったのかしら？
+（０）一致しないわね、何かあったのかしら？
 
 
 ＊OnUpdateBegin
 ：
-（０）あら、ｗ５芥子の妖精達からの手紙ね。ｗ９
+（５）あら、ｗ５芥子の妖精達からの手紙ね。ｗ９
 
 何かあったのかしら？
 
@@ -161,11 +161,11 @@
 
 ＊OnUpdatedataCreated
 ：
-（０）完了したわ。
+（５）完了したわ。
 
 ＊OnUpdatedataCreating
 ：
-（０）updates2.dau作成ね
+（５）updates2.dau作成ね
 
 ＊OnUpdateFailure
 ＞ネットワーク更新（Ｒ０）
@@ -173,7 +173,7 @@
 
 ＊OnUpdateReady
 ：
-（０）手紙は（Ｒ０）枚あるわね。
+（５）手紙は（Ｒ０）枚あるわね。
 
 ＊OnURLDropped
 ダウンロードが終りました。
@@ -234,7 +234,7 @@
 
 ＊OnWindowStateRestore
 ：
-（０）？
+（５）？
 
 
 ＊rが押された
