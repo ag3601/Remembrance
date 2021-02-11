@@ -51,6 +51,8 @@ sakura.bindgroup3561.addid,3411
 
 sakura.bindgroup600.default,1
 sakura.bindgroup600.name,耳,人耳
+sakura.bindgroup601.name,耳,エルフ耳１
+sakura.bindgroup602.name,耳,エルフ耳２
 
 //眉毛
 
