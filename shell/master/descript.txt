@@ -141,30 +141,6 @@ sakura.bindgroup8102.name,ワンピース,軍服黒腕胸
 sakura.bindgroup8103.name,ワンピース,軍服白腕後
 sakura.bindgroup8104.name,ワンピース,軍服白腕前
 sakura.bindgroup8105.name,ワンピース,軍服白腕胸
-sakura.bindgroup8107.name,ワンピース,着物黄帯黒橡
-sakura.bindgroup8106.name,ワンピース,着物黄帯紅梅色
-sakura.bindgroup8108.name,ワンピース,着物黄帯竜胆色
-sakura.bindgroup8118.name,ワンピース,着物黄帯花緑青
-sakura.bindgroup8138.name,ワンピース,着物黄帯紅掛花色
-sakura.bindgroup8139.name,ワンピース,着物黄帯木蘭色
-sakura.bindgroup8140.name,ワンピース,着物黄帯濃深縹
-sakura.bindgroup8141.name,ワンピース,着物黄帯濃鶸茶
-sakura.bindgroup8120.name,ワンピース,着物黄帯濃海老茶
-sakura.bindgroup8121.name,ワンピース,着物黄帯濃紺桔梗
-sakura.bindgroup8119.name,ワンピース,着物黄帯濃胆礬色
-sakura.bindgroup8111.name,ワンピース,着物桃帯黒橡
-sakura.bindgroup8110.name,ワンピース,着物桃帯紅梅色
-sakura.bindgroup8112.name,ワンピース,着物桃帯竜胆色
-sakura.bindgroup8115.name,ワンピース,着物桃帯花緑青
-sakura.bindgroup8142.name,ワンピース,着物桃帯紅掛花色
-sakura.bindgroup8143.name,ワンピース,着物桃帯木蘭色
-sakura.bindgroup8144.name,ワンピース,着物桃帯濃深縹
-sakura.bindgroup8145.name,ワンピース,着物桃帯濃鶸茶
-sakura.bindgroup8113.name,ワンピース,着物桃帯濃海老茶
-sakura.bindgroup8114.name,ワンピース,着物桃帯濃紺桔梗
-sakura.bindgroup8116.name,ワンピース,着物桃帯濃胆礬色
-sakura.bindgroup8109.name,ワンピース,着物紅の八塩
-sakura.bindgroup8117.name,ワンピース,着物月白
 sakura.bindgroup8147.name,ワンピース,ワンピースA黒
 sakura.bindgroup8148.name,ワンピース,ワンピースA白
 sakura.bindgroup8149.name,ワンピース,ワンピースA赤
@@ -173,14 +149,6 @@ sakura.bindgroup8151.name,ワンピース,ワンピースB黒
 sakura.bindgroup8152.name,ワンピース,ワンピースB白
 sakura.bindgroup8153.name,ワンピース,ワンピースB赤
 sakura.bindgroup8154.name,ワンピース,ワンピースBピンク
-sakura.bindgroup8155.name,ワンピース,チャイナドレスA黒黒
-sakura.bindgroup8156.name,ワンピース,チャイナドレスA黒グレー
-sakura.bindgroup8157.name,ワンピース,チャイナドレスA黒赤
-sakura.bindgroup8158.name,ワンピース,チャイナドレスA白黒
-sakura.bindgroup8159.name,ワンピース,チャイナドレスA白グレー
-sakura.bindgroup8160.name,ワンピース,チャイナドレスA白赤
-sakura.bindgroup8161.name,ワンピース,チャイナドレスA赤
-sakura.bindgroup8162.name,ワンピース,チャイナドレスA緑
 sakura.bindgroup8163.name,ワンピース,チャイナドレスB黒黒
 sakura.bindgroup8164.name,ワンピース,チャイナドレスB黒グレー
 sakura.bindgroup8170.name,ワンピース,チャイナドレスB黒赤
@@ -196,8 +164,6 @@ sakura.bindgroup7561.name,ワンピース,バニー黒
 sakura.bindgroup7562.name,ワンピース,バニー白
 sakura.bindgroup7563.name,ワンピース,バニー赤
 sakura.bindgroup8146.name,ワンピース,くノ一
-
-
 
 
 //トップ　
@@ -263,14 +229,6 @@ sakura.bindgroup8177.name,トップ,タートルネック桃色
 sakura.bindgroup8178.name,トップ,タートルネック灰
 sakura.bindgroup8179.name,トップ,タートルネック水色
 sakura.bindgroup8180.name,トップ,タートルネック黄色
-sakura.bindgroup7500.name,トップ,TシャツA黒
-sakura.bindgroup7501.name,トップ,TシャツA白
-sakura.bindgroup7502.name,トップ,TシャツB黒
-sakura.bindgroup7503.name,トップ,TシャツB白
-sakura.bindgroup7504.name,トップ,TシャツC黒
-sakura.bindgroup7505.name,トップ,TシャツC白
-sakura.bindgroup7506.name,トップ,TシャツD黒
-sakura.bindgroup7507.name,トップ,TシャツD白
 sakura.bindgroup7527.name,トップ,タンクトップ黒
 sakura.bindgroup7528.name,トップ,タンクトップ白
 sakura.bindgroup7529.name,トップ,タンクトップピンク
@@ -396,8 +354,6 @@ sakura.bindgroup4724.name,靴下,三つ折り白
 sakura.bindgroup4725.name,靴下,三つ折りピンク
 sakura.bindgroup4730.name,靴下,フリルソックス黒
 sakura.bindgroup4731.name,靴下,フリルソックス白
-sakura.bindgroup4735.name,靴下,足袋黒
-sakura.bindgroup4736.name,靴下,足袋白
 
 
 //タイツ
@@ -454,10 +410,6 @@ sakura.bindgroup5320.name,靴,ブーツ黒
 sakura.bindgroup5327.name,靴,ブーツ白
 sakura.bindgroup5321.name,靴,ブーツ赤
 sakura.bindgroup5322.name,靴,ブーツ茶
-sakura.bindgroup5323.name,靴,上履き
-sakura.bindgroup5324.name,靴,下駄黒
-sakura.bindgroup5325.name,靴,下駄白
-sakura.bindgroup5326.name,靴,下駄赤
 
 
 //髪アクセサリー　

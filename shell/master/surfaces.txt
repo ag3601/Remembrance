@@ -7,7 +7,7 @@ Version,1
 
 //素体
 
-surface0-9,11-80,200-225,300-325
+surface0-9,11-106,200-228,300-328
 {
 element2,overlay,surface350.png,0,0
 collisionex0,Head,polygon,212,170,228,148,251,136,293,136,316,148,331,170
@@ -36,7 +36,7 @@ element3,overlay,surface470.png,0,0
 
 //目閉じ照れ1
 
-surface22,27,31,68,73,76
+surface22,27,31,68,73,76,90
 {
 element0,interpolate,surface370.png,0,0
 element3,overlay,surface473.png,0,0
@@ -44,7 +44,7 @@ element3,overlay,surface473.png,0,0
 
 //目閉じ赤1
 
-surface20,206,212,306,312
+surface20,84,87,93,96,99,206,212,228,306,312,328
 {
 element0,interpolate,surface370.png,0,0
 element3,overlay,surface474.png,0,0
@@ -73,7 +73,7 @@ element3,overlay,surface472.png,0,0
 }
 
 //目普通
-surface0,5-6,53,65-66,77
+surface0,5-6,46,65-66,77
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
@@ -86,7 +86,7 @@ animation1.pattern4,overlay,450,50,0,0
 
 //目普通照れ1
 
-surface30,33,38,71,74
+surface30,33,38,53,62,71,74,81,88
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
@@ -99,7 +99,7 @@ animation1.pattern4,overlay,453,50,0,0
 
 //目普通赤1
 
-surface46,54-55,201,208,301,308
+surface54-55,82,85,91,94,97,105,201,208,226,301,308,326
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
@@ -138,7 +138,7 @@ animation1.pattern4,overlay,460,50,0,0
 }
 
 //半目照れ1
-surface1,14,17,48,69,72,75
+surface1,14,17,48,69,72,75,89,104
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
@@ -151,7 +151,7 @@ animation1.pattern4,overlay,463,50,0,0
 
 //半目赤1
 
-surface51,200,207,300,307
+surface51,83,86,92,95,98,106,200,207,227,300,307,327
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
@@ -277,7 +277,7 @@ animation1.pattern4,overlay,450,50,0,0
 
 //目右見る赤面1
 
-surface205,305
+surface100,205,305
 {
 element0,interpolate,surface371.png,0,0
 animation1.interval,runonce+random,6
@@ -327,7 +327,7 @@ animation1.pattern4,overlay,463,50,0,0
 
 //半目右見る赤面1
 
-surface204,304
+surface101,204,304
 {
 element0,interpolate,surface371.png,0,0
 animation1.interval,runonce+random,6
@@ -365,7 +365,7 @@ animation1.pattern4,overlay,450,50,0,0
 }
 
 //目下見る照れ1
-surface11,56
+surface11
 {
 element0,interpolate,surface372.png,0,0
 animation1.interval,runonce+random,6
@@ -376,8 +376,8 @@ animation1.pattern3,overlay,473,50,0,0
 animation1.pattern4,overlay,453,50,0,0
 }
 
-//目下見る赤面1
-surface203,210,303,310
+//目下見る目開き赤面1
+surface56,102,203,210,303,310
 {
 element0,interpolate,surface372.png,0,0
 animation1.interval,runonce+random,6
@@ -427,7 +427,7 @@ animation1.pattern4,overlay,463,50,0,0
 }
 
 //目下見る半目赤面1
-surface57,62,202,209,302,309
+surface57,103,202,209,302,309
 {
 element0,interpolate,surface372.png,0,0
 animation1.interval,runonce+random,6
@@ -567,7 +567,7 @@ animation1.pattern4,overlay,455,50,0,0
 
 //眉普通
 
-surface0,8,15,30-31,33-35,40,49-50
+surface0,8,15,33-35,40,49-50
 {
 animation400.interval,bind
 animation400.pattern0,bind,400,0,0,0
@@ -575,7 +575,7 @@ animation400.pattern0,bind,400,0,0,0
 
 //眉悲
 
-surface16,3-4,21,19,23,28-29,36,39,42-43,46-47,51,53,55,56-61,64,80
+surface3-4,16,19,21,23,28-29,36,39,42-43,46-47,51,53,55,56-62,64,80,88-93
 {
 animation400.interval,bind
 animation400.pattern0,bind,401,0,0,0
@@ -615,7 +615,7 @@ animation400.pattern0,bind,405,0,0,0
 
 //眉楽
 
-surface1-2,5,11-12,14,20,24-27,32,37-38,41,44-45,48,62,66-76,200-210,212,300-310,312,213-223,225,313-323,325
+surface1-2,5,11-12,14,20,24-27,30-32,37-38,41,44-45,48,66-76,81-87,94-106,200-210,212,213-223,225-228,300-310,312,313-323,325-328
 {
 animation400.interval,bind
 animation400.pattern0,bind,406,0,0,0
@@ -623,7 +623,7 @@ animation400.pattern0,bind,406,0,0,0
 
 //眉驚き
 
-surface13,52,211,311,224,324,
+surface13,52,211,311,224,324
 {
 animation400.interval,bind
 animation400.pattern0,bind,407,0,0,0
@@ -631,7 +631,7 @@ animation400.pattern0,bind,407,0,0,0
 
 //口普通（ん～）
 
-surface0,1,3-4,6,11,15-16,9,19-21,27-30,39,40-43,46-47,49-51,53-65,77-79,200-206,211,300-306,311,213-219,224,313-319,324
+surface0,1,3-4,6,11,15-16,9,19-21,27-30,39,40-43,46-47,49-51,53-65,77-79,97-106,200-206,211,300-306,311,213-219,224,313-319,324
 {
 element6,overlay,surface430.png,0,0
 
@@ -649,7 +649,7 @@ animation4.pattern7,overlay,430,100,0,0
 
 //口ニコ小
 
-surface5,37-38,45,48
+surface5,37-38,45,48,85-87
 {
 element6,overlay,surface431.png,0,0
 
@@ -699,7 +699,7 @@ animation4.pattern7,overlay,434,100,0,0
 
 //口キス
 
-surface68-69
+surface68-69,81-84,226-228,326-328
 {
 element6,overlay,surface435.png,0,0
 
@@ -715,7 +715,7 @@ animation4.pattern6,overlay,435,90,0,0
 
 //ムッとした口（無表情１）
 
-surface7-8,12-14,17-18,22-23,31,33-36,44,52,74-76,80,207-210,212,307-310,312,220-223,225,320-323,325
+surface7-8,12-14,17-18,22-23,31,33-36,44,52,74-76,80,88-96,207-210,212,220-223,225,307-310,312,320-323,325
 {
 element6,overlay,surface433.png,0,0
 
@@ -730,13 +730,13 @@ animation4.pattern6,overlay,433,90,0,0
 }
 
 //湯気
-surface200-225
+surface200-228
 {
 element8,overlay,surface492.png,0,0
 }
 
 //湯気大
-surface300-325
+surface300-328
 {
 element8,overlay,surface493.png,0,0
 }
@@ -744,7 +744,7 @@ element8,overlay,surface493.png,0,0
 
 //着せ替え
 
-surface0-9,11-18,20-28,30-45,47-50,52-53,56,58,63-80
+surface0-9,11-18,20-28,30-45,47-50,52-53,58,62-81,88-90,104
 {
 //人・エルフ耳
 
@@ -763,7 +763,7 @@ animation602.collisionex12,Ear,polygon,225,230,173,251,224,251
 }
 
 
-surface19,29,46,51,54-55,57,59-62,200-225,300-325
+surface19,29,46,51,54-57,59-61,82-87,91-103,105-106,200-228,300-328
 {
 //人・エルフ耳
 
@@ -781,7 +781,8 @@ animation602.collisionex11,Ear,polygon,317,230,363,250,314,251
 animation602.collisionex12,Ear,polygon,225,230,173,251,224,251
 }
 
-surface0-9,11-80,200-212,300-312
+
+surface0-9,11-106,200-228,300-328
 {
 
 
@@ -1005,102 +1006,6 @@ animation8105.interval,bind
 animation8105.pattern0,bind,8105,0,0,0
 animation8105.collision8105,241,308,281,345,Hand
 animation8105.collisionex81005,Skirt,polygon,175,537,254,553,285,554,373,545,399,596,374,618,352,630,323,637,243,638,217,637,193,629,169,621,143,598
-animation8106.interval,bind
-animation8106.pattern0,bind,8106,0,0,0
-animation8106.collision8106,246,483,296,530,Hand
-animation8106.collisionex81006,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8107.interval,bind
-animation8107.pattern0,bind,8107,0,0,0
-animation8107.collision8107,246,483,296,530,Hand
-animation8107.collisionex81007,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8108.interval,bind
-animation8108.pattern0,bind,8108,0,0,0
-animation8108.collision8108,246,483,296,530,Hand
-animation8108.collisionex81008,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8109.interval,bind
-animation8109.pattern0,bind,8109,0,0,0
-animation8109.collision8109,246,483,296,530,Hand
-animation8109.collisionex81009,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8110.interval,bind
-animation8110.pattern0,bind,8110,0,0,0
-animation8110.collision8110,246,483,296,530,Hand
-animation8110.collisionex81010,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8111.interval,bind
-animation8111.pattern0,bind,8111,0,0,0
-animation8111.collision8111,246,483,296,530,Hand
-animation8111.collisionex81011,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8112.interval,bind
-animation8112.pattern0,bind,8112,0,0,0
-animation8112.collision8112,246,483,296,530,Hand
-animation8112.collisionex81012,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8113.interval,bind
-animation8113.pattern0,bind,8113,0,0,0
-animation8113.collision8113,246,483,296,530,Hand
-animation8113.collisionex81013,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8114.interval,bind
-animation8114.pattern0,bind,8114,0,0,0
-animation8114.collision8114,246,483,296,530,Hand
-animation8114.collisionex81014,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8115.interval,bind
-animation8115.pattern0,bind,8115,0,0,0
-animation8115.collision8115,246,483,296,530,Hand
-animation8115.collisionex81015,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8116.interval,bind
-animation8116.pattern0,bind,8116,0,0,0
-animation8116.collision8116,246,483,296,530,Hand
-animation8116.collisionex81016,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8117.interval,bind
-animation8117.pattern0,bind,8117,0,0,0
-animation8117.collision8117,246,483,296,530,Hand
-animation8117.collisionex81017,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8118.interval,bind
-animation8118.pattern0,bind,8118,0,0,0
-animation8118.collision8118,246,483,296,530,Hand
-animation8118.collisionex81018,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8119.interval,bind
-animation8119.pattern0,bind,8119,0,0,0
-animation8119.collision8119,246,483,296,530,Hand
-animation8119.collisionex81019,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8120.interval,bind
-animation8120.pattern0,bind,8120,0,0,0
-animation8120.collision8120,246,483,296,530,Hand
-animation8120.collisionex81020,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8121.interval,bind
-animation8121.pattern0,bind,8121,0,0,0
-animation8121.collision8121,246,483,296,530,Hand
-animation8121.collisionex81021,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8138.interval,bind
-animation8138.pattern0,bind,8138,0,0,0
-animation8138.collision8138,246,483,296,530,Hand
-animation8138.collisionex81038,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8139.interval,bind
-animation8139.pattern0,bind,8139,0,0,0
-animation8139.collision8139,246,483,296,530,Hand
-animation8139.collisionex81039,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8140.interval,bind
-animation8140.pattern0,bind,8140,0,0,0
-animation8140.collision8140,246,483,296,530,Hand
-animation8140.collisionex81040,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8141.interval,bind
-animation8141.pattern0,bind,8141,0,0,0
-animation8141.collision8141,246,483,296,530,Hand
-animation8141.collisionex81041,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8142.interval,bind
-animation8142.pattern0,bind,8142,0,0,0
-animation8142.collision8142,246,483,296,530,Hand
-animation8142.collisionex81042,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8143.interval,bind
-animation8143.pattern0,bind,8143,0,0,0
-animation8143.collision8143,246,483,296,530,Hand
-animation8143.collisionex81043,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8144.interval,bind
-animation8144.pattern0,bind,8144,0,0,0
-animation8144.collision8144,246,483,296,530,Hand
-animation8144.collisionex81044,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
-animation8145.interval,bind
-animation8145.pattern0,bind,8145,0,0,0
-animation8145.collision8145,246,483,296,530,Hand
-animation8145.collisionex81045,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
 animation8146.interval,bind
 animation8146.pattern0,bind,8146,0,0,0
 animation8146.collision8146,233,429,313,547,Skirt
@@ -1128,30 +1033,6 @@ animation8153.collisionex8153,Skirt,polygon,333,459,367,542,380,596,296,623,238,
 animation8154.interval,bind
 animation8154.pattern0,bind,8154,0,0,0
 animation8154.collisionex8154,Skirt,polygon,333,459,367,542,380,596,296,623,238,620,164,592,176,545,210,458
-animation8155.interval,bind
-animation8155.pattern0,bind,2042,0,0,0
-animation8155.collisionex8155,Skirt,polygon,213,492,330,491,320,569,223,570
-animation8156.interval,bind
-animation8156.pattern0,bind,2043,0,0,0
-animation8156.collisionex8156,Skirt,polygon,213,492,330,491,320,569,223,570
-animation8157.interval,bind
-animation8157.pattern0,bind,2044,0,0,0
-animation8157.collisionex8157,Skirt,polygon,213,492,330,491,320,569,223,570
-animation8158.interval,bind
-animation8158.pattern0,bind,2045,0,0,0
-animation8158.collisionex8158,Skirt,polygon,213,492,330,491,320,569,223,570
-animation8159.interval,bind
-animation8159.pattern0,bind,2046,0,0,0
-animation8159.collisionex8159,Skirt,polygon,213,492,330,491,320,569,223,570
-animation8160.interval,bind
-animation8160.pattern0,bind,2047,0,0,0
-animation8160.collisionex8160,Skirt,polygon,213,492,330,491,320,569,223,570
-animation8161.interval,bind
-animation8161.pattern0,bind,2048,0,0,0
-animation8161.collisionex8161,Skirt,polygon,213,492,330,491,320,569,223,570
-animation8162.interval,bind
-animation8162.pattern0,bind,2049,0,0,0
-animation8162.collisionex8162,Skirt,polygon,213,492,330,491,320,569,223,570
 animation8163.interval,bind
 animation8163.pattern0,bind,2050,0,0,0
 animation8163.collisionex8163,Skirt,polygon,228,482,314,482,303,679,243,679
@@ -1190,22 +1071,6 @@ animation8173.collisionex8173,Skirt,polygon,334,489,341,548,201,548,209,489
 
 //トップ　
 
-animation7500.interval,bind
-animation7500.pattern0,bind,2000,0,0,0
-animation7501.interval,bind
-animation7501.pattern0,bind,2001,0,0,0
-animation7502.interval,bind
-animation7502.pattern0,bind,2002,0,0,0
-animation7503.interval,bind
-animation7503.pattern0,bind,2003,0,0,0
-animation7504.interval,bind
-animation7504.pattern0,bind,2004,0,0,0
-animation7505.interval,bind
-animation7505.pattern0,bind,2005,0,0,0
-animation7506.interval,bind
-animation7506.pattern0,bind,2006,0,0,0
-animation7507.interval,bind
-animation7507.pattern0,bind,2007,0,0,0
 animation7508.interval,bind
 animation7508.pattern0,bind,2008,0,0,0
 animation7509.interval,bind
@@ -1594,11 +1459,6 @@ animation4733.interval,bind
 animation4733.pattern0,bind,4533,0,0,0
 animation4734.interval,bind
 animation4734.pattern0,bind,4534,0,0,0
-animation4735.interval,bind
-animation4735.pattern0,bind,4535,0,0,0
-animation4736.interval,bind
-animation4736.pattern0,bind,4536,0,0,0
-
 
 //タイツ
 
@@ -1672,12 +1532,6 @@ animation5322.interval,bind
 animation5322.pattern0,bind,49022,0,0,0
 animation5323.interval,bind
 animation5323.pattern0,bind,49023,0,0,0
-animation5324.interval,bind
-animation5324.pattern0,bind,49024,0,0,0
-animation5325.interval,bind
-animation5325.pattern0,bind,49025,0,0,0
-animation5326.interval,bind
-animation5326.pattern0,bind,49026,0,0,0
 animation5327.interval,bind
 animation5327.pattern0,bind,49027,0,0,0
 
