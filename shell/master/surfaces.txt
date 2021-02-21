@@ -1,5 +1,7 @@
 charset,Shift_JIS
 
+ŠHŽq‚Ì‰Ô—p
+
 descript
 {
 Version,1
