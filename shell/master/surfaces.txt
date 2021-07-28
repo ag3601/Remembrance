@@ -1003,9 +1003,6 @@ animation8105.interval,bind
 animation8105.pattern0,bind,8105,0,0,0
 animation8105.collision8105,241,308,281,345,Hand
 animation8105.collisionex81005,Skirt,polygon,175,537,254,553,285,554,373,545,399,596,374,618,352,630,323,637,243,638,217,637,193,629,169,621,143,598
-animation8146.interval,bind
-animation8146.pattern0,bind,8146,0,0,0
-animation8146.collision8146,233,429,313,547,Skirt
 animation8147.interval,bind
 animation8147.pattern0,bind,8147,0,0,0
 animation8147.collisionex8147,Skirt,polygon,333,459,367,542,380,596,296,623,238,620,164,592,176,545,210,458

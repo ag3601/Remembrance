@@ -169,7 +169,6 @@ sakura.bindgroup8173.name,ワンピース,ナース服ピンク
 sakura.bindgroup7561.name,ワンピース,バニー黒
 sakura.bindgroup7562.name,ワンピース,バニー白
 sakura.bindgroup7563.name,ワンピース,バニー赤
-sakura.bindgroup8146.name,ワンピース,くノ一
 
 
 //トップ　
