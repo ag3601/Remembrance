@@ -1443,12 +1443,6 @@ animation15022.interval,bind
 animation15022.pattern0,bind,15022,0,0,0
 animation15023.interval,bind
 animation15023.pattern0,bind,15023,0,0,0
-animation15038.interval,bind
-animation15038.pattern0,bind,15038,0,0,0
-animation15039.interval,bind
-animation15039.pattern0,bind,15039,0,0,0
-animation15040.interval,bind
-animation15040.pattern0,bind,15040,0,0,0
 animation15043.interval,bind
 animation15043.pattern0,bind,15043,0,0,0
 animation15044.interval,bind
@@ -1463,18 +1457,8 @@ animation15048.interval,bind
 animation15048.pattern0,bind,15048,0,0,0
 
 
-
-
 //帽子
 
-animation15100.interval,bind
-animation15100.pattern0,bind,15100,0,0,0
-animation15101.interval,bind
-animation15101.pattern0,bind,15101,0,0,0
-animation15102.interval,bind
-animation15102.pattern0,bind,15102,0,0,0
-animation15103.interval,bind
-animation15103.pattern0,bind,15103,0,0,0
 animation15104.interval,bind
 animation15104.pattern0,bind,15104,0,0,0
 animation15105.interval,bind
@@ -1495,26 +1479,6 @@ animation15112.interval,bind
 animation15112.pattern0,bind,15112,0,0,0
 animation15113.interval,bind
 animation15113.pattern0,bind,15113,0,0,0
-animation15114.interval,bind
-animation15114.pattern0,bind,15114,0,0,0
-animation15115.interval,bind
-animation15115.pattern0,bind,15115,0,0,0
-animation15116.interval,bind
-animation15116.pattern0,bind,15116,0,0,0
-animation15117.interval,bind
-animation15117.pattern0,bind,15117,0,0,0
-animation15118.interval,bind
-animation15118.pattern0,bind,15118,0,0,0
-animation15119.interval,bind
-animation15119.pattern0,bind,15119,0,0,0
-animation15120.interval,bind
-animation15120.pattern0,bind,15120,0,0,0
-animation15121.interval,bind
-animation15121.pattern0,bind,15121,0,0,0
-animation15122.interval,bind
-animation15122.pattern0,bind,15122,0,0,0
-animation15123.interval,bind
-animation15123.pattern0,bind,15123,0,0,0
 
 
 //上着
@@ -1555,18 +1519,6 @@ animation8505.pattern0,bind,8505,0,0,0
 
 //エフロン
 
-animation8450.interval,bind
-animation8450.pattern0,bind,8450,0,0,0
-animation8451.interval,bind
-animation8451.pattern0,bind,8451,0,0,0
-animation8452.interval,bind
-animation8452.pattern0,bind,8452,0,0,0
-animation8453.interval,bind
-animation8453.pattern0,bind,8453,0,0,0
-animation8454.interval,bind
-animation8454.pattern0,bind,8454,0,0,0
-animation8455.interval,bind
-animation8455.pattern0,bind,8455,0,0,0
 animation8456.interval,bind
 animation8456.pattern0,bind,8456,0,0,0
 animation8457.interval,bind
@@ -1575,8 +1527,6 @@ animation8458.interval,bind
 animation8458.pattern0,bind,8458,0,0,0
 animation8459.interval,bind
 animation8459.pattern0,bind,8459,0,0,0
-
-
 
 
 //脚アクセサリー・眼鏡
@@ -1685,30 +1635,13 @@ animation7807.pattern0,bind,7807,0,0,0
 
 //襟
 
-animation7700.interval,bind
-animation7700.pattern0,bind,7700,0,0,0
-animation7701.interval,bind
-animation7701.pattern0,bind,7701,0,0,0
-animation7702.interval,bind
-animation7702.pattern0,bind,7702,0,0,0
-animation7703.interval,bind
-animation7703.pattern0,bind,7703,0,0,0
-animation7704.interval,bind
-animation7704.pattern0,bind,7704,0,0,0
-animation7705.interval,bind
-animation7705.pattern0,bind,7705,0,0,0
+
 animation7706.interval,bind
 animation7706.pattern0,bind,7706,0,0,0
 animation7707.interval,bind
 animation7707.pattern0,bind,7707,0,0,0
 animation7708.interval,bind
 animation7708.pattern0,bind,7708,0,0,0
-animation7716.interval,bind
-animation7716.pattern0,bind,7716,0,0,0
-animation7717.interval,bind
-animation7717.pattern0,bind,7717,0,0,0
-animation7718.interval,bind
-animation7718.pattern0,bind,7718,0,0,0
 animation7719.interval,bind
 animation7719.pattern0,bind,7719,0,0,0
 animation7720.interval,bind

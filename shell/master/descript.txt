@@ -376,9 +376,6 @@ sakura.bindgroup15011.name,髪アクセサリー,リボン２左赤
 sakura.bindgroup15021.name,髪アクセサリー,カチューシャ黒
 sakura.bindgroup15022.name,髪アクセサリー,カチューシャ白
 sakura.bindgroup15023.name,髪アクセサリー,カチューシャ赤
-sakura.bindgroup15038.name,髪アクセサリー,ヘアピン１
-sakura.bindgroup15039.name,髪アクセサリー,ヘアピン２
-sakura.bindgroup15040.name,髪アクセサリー,ヘアピン３
 sakura.bindgroup15043.name,髪アクセサリー,花冠１
 sakura.bindgroup15044.name,髪アクセサリー,花冠２
 sakura.bindgroup15045.name,髪アクセサリー,花１右
@@ -390,10 +387,6 @@ sakura.bindgroup15048.name,髪アクセサリー,花２左
 //帽子
 
 sakura.bindgroup15111.default,1
-sakura.bindgroup15100.name,帽子,ネコミミ帽子
-sakura.bindgroup15102.name,帽子,ナースキャップ黒
-sakura.bindgroup15101.name,帽子,ナースキャップ白
-sakura.bindgroup15103.name,帽子,ナースキャップピンク
 sakura.bindgroup15104.name,帽子,ベレー帽１黒
 sakura.bindgroup15105.name,帽子,ベレー帽１白
 sakura.bindgroup15106.name,帽子,ベレー帽１赤
@@ -404,16 +397,6 @@ sakura.bindgroup15110.name,帽子,ベレー帽１黒赤
 sakura.bindgroup15111.name,帽子,ベレー帽２黒
 sakura.bindgroup15112.name,帽子,ベレー帽２白
 sakura.bindgroup15113.name,帽子,ベレー帽２赤
-sakura.bindgroup15114.name,帽子,ミニハット黒
-sakura.bindgroup15115.name,帽子,ミニハット白
-sakura.bindgroup15116.name,帽子,ミニハット赤
-sakura.bindgroup15117.name,帽子,ミニハット黒黒
-sakura.bindgroup15118.name,帽子,ミニハット黒白
-sakura.bindgroup15119.name,帽子,ミニハット黒赤
-sakura.bindgroup15120.name,帽子,ミニハット黒赤濃
-sakura.bindgroup15121.name,帽子,ミニハット白赤濃
-sakura.bindgroup15122.name,帽子,麦わら帽子黒
-sakura.bindgroup15123.name,帽子,麦わら帽子赤
 
 
 //上着
@@ -439,12 +422,7 @@ sakura.bindgroup8505.name,外套,ケープ茶
 
 
 //エフロン
-sakura.bindgroup8450.name,エフロン,エフロングレー
-sakura.bindgroup8451.name,エフロン,エフロン白
-sakura.bindgroup8452.name,エフロン,エフロンピンク
-sakura.bindgroup8453.name,エフロン,エフロン黄色
-sakura.bindgroup8455.name,エフロン,エフロン水色
-sakura.bindgroup8454.name,エフロン,エフロン緑
+
 sakura.bindgroup8456.name,エフロン,フリルエフロン黒
 sakura.bindgroup8457.name,エフロン,フリルエフロン白
 sakura.bindgroup8458.name,エフロン,腰エフロン１
@@ -517,34 +495,14 @@ sakura.bindgroup7751.name,服上アクセサリー,シャツネクタイ水色
 sakura.bindgroup7752.name,服上アクセサリー,シャツネクタイ黄色
 
 
-//襟
+//靴下用フリル
 
-sakura.bindgroup7700.name,襟,フリル襟１
-sakura.bindgroup7701.name,襟,フリル襟２
-sakura.bindgroup7702.name,襟,Yシャツ襟黒
-sakura.bindgroup7703.name,襟,Yシャツ襟白
-sakura.bindgroup7704.name,襟,開き襟黒
-sakura.bindgroup7705.name,襟,開き襟白
-sakura.bindgroup7716.name,襟,付け襟黒
-sakura.bindgroup7717.name,襟,付け襟白
-sakura.bindgroup7718.name,襟,付け襟２黒
-
-
-//服装飾
-
-
-
-
-//脚アクセサリー
-
-sakura.bindgroup4813.name,脚アクセサリー,フリル１
-sakura.bindgroup4814.name,脚アクセサリー,フリル２
-sakura.bindgroup4815.name,脚アクセサリー,フリル足首
+sakura.bindgroup4813.name,靴下用フリル,フリル１
+sakura.bindgroup4814.name,靴下用フリル,フリル２
+sakura.bindgroup4815.name,靴下用フリル,フリル足首
 
 
 //マフラーなと
-
-
 
 
 sakura.menu,auto
