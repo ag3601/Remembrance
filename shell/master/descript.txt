@@ -16,7 +16,7 @@ readme,readme.txt
 
 //腕
 
-sakura.bindgroup3551.default,1
+sakura.bindgroup3406.default,1
 sakura.bindoption0.group,腕,mustselect
 sakura.bindgroup3600.name,腕,デフォルト
 sakura.bindgroup3550.name,腕,下ろし両手
@@ -100,7 +100,7 @@ sakura.bindgroup11310.name,モミアゲ,モミアゲ長３
 
 //下着上
 
-sakura.bindgroup4201.default,1
+sakura.bindgroup4200.default,1
 sakura.bindgroup4200.name,下着上,ブラ黒
 sakura.bindgroup4201.name,下着上,ブラ白
 sakura.bindgroup4202.name,下着上,ブラ赤
@@ -127,7 +127,7 @@ sakura.bindgroup4218.name,下着上,メイドブラ
 
 //下着下
 
-sakura.bindgroup5001.default,1
+sakura.bindgroup5000.default,1
 sakura.bindgroup5000.name,下着下,パンツ黒
 sakura.bindgroup5001.name,下着下,パンツ白
 sakura.bindgroup5002.name,下着下,パンツ赤
@@ -141,6 +141,7 @@ sakura.bindgroup5008.name,下着下,レースパンツB白
 
 //ワンピース
 
+sakura.bindgroup8102.default,1
 sakura.bindgroup8100.name,ワンピース,軍服黒腕後
 sakura.bindgroup8101.name,ワンピース,軍服黒腕前
 sakura.bindgroup8102.name,ワンピース,軍服黒腕胸
@@ -173,7 +174,6 @@ sakura.bindgroup7563.name,ワンピース,バニー赤
 
 //トップ　
 
-sakura.bindgroup7513.default,1
 sakura.bindgroup7508.name,トップ,ﾌﾘﾙｼｬﾂ黒
 sakura.bindgroup7520.name,トップ,ﾌﾘﾙｼｬﾂピンク
 sakura.bindgroup7513.name,トップ,ﾌﾘﾙｼｬﾂ白
@@ -269,8 +269,6 @@ sakura.bindgroup7623.name,トップ,パーカー３黄色
 
 //スカート
 
-sakura.bindgroup8010.default,1
-
 sakura.bindgroup8011.name,スカート,フリルスカート黒
 sakura.bindgroup8012.name,スカート,フリルスカート白
 sakura.bindgroup8010.name,スカート,フリルスカート赤
@@ -323,7 +321,6 @@ sakura.bindgroup8050.name,ズボン,スラックス白
 
 //靴下
 
-sakura.bindgroup4724.default,1
 sakura.bindgroup4708.name,靴下,ニーソ黒
 sakura.bindgroup4707.name,靴下,ニーソ白
 sakura.bindgroup4709.name,靴下,ニーソピンク
@@ -363,6 +360,7 @@ sakura.bindgroup4731.name,靴下,フリルソックス白
 
 //タイツ
 
+sakura.bindgroup5107.default,1
 sakura.bindgroup5100.name,タイツ,タイツ１黒
 sakura.bindgroup5101.name,タイツ,タイツ１白
 sakura.bindgroup5102.name,タイツ,タイツ１赤
@@ -391,6 +389,7 @@ sakura.bindgroup4810.name,ガーター,リングガーター左
 
 //靴
 
+sakura.bindgroup5320.default,1
 sakura.bindgroup5309.name,靴,スリッパ黒
 sakura.bindgroup5308.name,靴,スリッパ白
 sakura.bindgroup5311.name,靴,スリッパ赤
@@ -468,6 +467,7 @@ sakura.bindgroup15048.name,髪アクセサリー,花２左
 
 //帽子
 
+sakura.bindgroup15111.default,1
 sakura.bindgroup15100.name,帽子,ネコミミ帽子
 sakura.bindgroup15102.name,帽子,ナースキャップ黒
 sakura.bindgroup15101.name,帽子,ナースキャップ白
