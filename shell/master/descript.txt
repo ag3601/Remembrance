@@ -409,6 +409,8 @@ sakura.bindgroup8404.name,上着,カーディガン開黒
 sakura.bindgroup8405.name,上着,カーディガン開白
 sakura.bindgroup8406.name,上着,カーディガン開ピンク
 sakura.bindgroup8407.name,上着,カーディガン開茶
+sakura.bindgroup8408.name,上着,スーツ黒
+sakura.bindgroup8409.name,上着,スーツ白
 
 
 //外套
@@ -419,6 +421,24 @@ sakura.bindgroup8502.name,外套,ケープ白
 sakura.bindgroup8503.name,外套,ケープ黒
 sakura.bindgroup8504.name,外套,ケープ赤
 sakura.bindgroup8505.name,外套,ケープ茶
+
+
+//外套より上（マフラーなと）
+
+animation8520.interval,bind
+animation8520.pattern0,bind,8520,0,0,0
+animation8521.interval,bind
+animation8521.pattern0,bind,8521,0,0,0
+animation8522.interval,bind
+animation8522.pattern0,bind,8522,0,0,0
+animation8523.interval,bind
+animation8523.pattern0,bind,8523,0,0,0
+animation8524.interval,bind
+animation8524.pattern0,bind,8524,0,0,0
+animation8525.interval,bind
+animation8525.pattern0,bind,8525,0,0,0
+animation8526.interval,bind
+animation8526.pattern0,bind,8526,0,0,0
 
 
 //エフロン
