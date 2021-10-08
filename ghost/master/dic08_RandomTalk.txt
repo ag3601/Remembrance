@@ -52,8 +52,8 @@
 ＊夏トーク
 ＊秋トーク
 ＊冬トーク
-＊さとりすとにより無効化_
-https://ncode.syosetu.com/n1031fh/396/
+＊
+＃https://ncode.syosetu.com/n1031fh/396/
 ＊散歩トーク
 ＊何か話して
 （）
@@ -340,3 +340,5 @@ https://ncode.syosetu.com/n1031fh/396/
 他の魔物にも普通に話しかけるようになってから嬉しそうだから、ｗ９ｗ５
 
 （４８）寂しかったじゃないかなって私が思うの。ｗ９ｗ９
+＊
+＃https://ncode.syosetu.com/n1031fh/355/
