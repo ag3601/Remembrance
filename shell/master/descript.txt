@@ -2,8 +2,8 @@ charset,Shift_JIS
 name,master
 type,shell
 id,master
-craftman,Anal,ag36
-craftmanw,Anal,ag36
+craftman,@hutosi_ari_11,ag36
+craftmanw,@hutosi_ari_11,ag36
 craftmanurl,http://seizonkakuninbasyo.web.fc2.com/index.html
 
 seriko.alignmenttodesktop,free
