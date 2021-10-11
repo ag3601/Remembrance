@@ -1,5 +1,5 @@
 charset,Shift_JIS
-name,ŠHq‚Ì‰Ô
+name,ƒŠƒƒ“ƒuƒ‰ƒ“ƒX
 type,ghost
-directory,Papaver
+directory,Remembrance
 refresh,0
