@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/ag3601/Papaver/master/
 
 ＃ネットワーク更新時にアクセスするアドレス。
 ＃フォルダ名を記述、最後に/をつけてください。例のような形になります。
-＃例）http://red_post.sakura.ne.jp/R_POST_and_KOMAINU/
+＃例http://red_post.sakura.ne.jp/R_POST_and_KOMAINU/
 
 ＠inforootbutton.caption
 書類の山
@@ -89,15 +89,12 @@ https://ghostreview.sakura.ne.jp/
 ゴースト回覧板３ｒｄ
 http://jbbs.shitaraba.net/computer/44300/
 
-
-
-＊sakura.recommendsites
-薬の魔物の継続理由
-https://ncode.syosetu.com/n1031fh/r
 ＊sakura.recommendsites
 薬の魔物の解雇理由
 https://ncode.syosetu.com/n2357dn/
-
+＊sakura.recommendsites
+薬の魔物の継続理由
+https://ncode.syosetu.com/n1031fh/
 
 ＃＊sakura.portalsites
 ＃-

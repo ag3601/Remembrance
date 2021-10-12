@@ -9,7 +9,7 @@ Version,1
 
 //素体
 
-surface0-9,11-127,200-231,300-328
+surface0-9,11-129,200-231,300-328
 {
 element2,overlay,surface350.png,0,0
 collisionex0,Head,polygon,212,170,228,148,251,136,293,136,316,148,331,170
@@ -245,7 +245,7 @@ animation1.pattern4,overlay,455,50,0,0
 //}
 
 //目右見る
-surface8
+surface8,128
 {
 element0,interpolate,surface371.png,0,0
 animation1.interval,runonce+random,6
@@ -295,17 +295,17 @@ animation1.pattern3,overlay,476,50,0,0
 animation1.pattern4,overlay,456,50,0,0
 }
 
-//半目右見る
-//surface
-//{
-//element0,interpolate,surface371.png,0,0
-//animation1.interval,runonce+random,6
-//animation1.pattern0,overlay,460,0,0,0
-//animation1.pattern1,overlay,460,80,0,0
-//animation1.pattern2,overlay,460,120,0,0
-//animation1.pattern3,overlay,470,50,0,0
-//animation1.pattern4,overlay,460,50,0,0
-//}
+半目右見る
+surface129
+{
+element0,interpolate,surface371.png,0,0
+animation1.interval,runonce+random,6
+animation1.pattern0,overlay,460,0,0,0
+animation1.pattern1,overlay,460,80,0,0
+animation1.pattern2,overlay,460,120,0,0
+animation1.pattern3,overlay,470,50,0,0
+animation1.pattern4,overlay,460,50,0,0
+}
 
 //半目右見る照れ1
 surface12
@@ -561,7 +561,7 @@ animation1.pattern4,overlay,455,50,0,0
 
 //眉普通
 
-surface0-1,8,15,40,49-50,105-106
+surface0-1,8,15,40,49-50,105-106,128-129
 {
 animation400.interval,bind
 animation400.pattern0,bind,400,0,0,0
@@ -626,7 +626,7 @@ animation400.pattern0,bind,407,0,0,0
 
 //口普通（ん～）
 
-surface0,1,3-4,6,11,15-16,9,19-21,27-31,39,40-44,46-47,49-51,53-65,77-79,97-106,122-127,200-206,211,300-306,311,213-219,224,313-319,324
+surface0,1,3-4,6,11,15-16,9,19-21,27-31,39,40-44,46-47,49-51,53-65,77-79,97-106,122-129,200-206,211,300-306,311,213-219,224,313-319,324
 {
 element6,overlay,surface430.png,0,0
 
@@ -741,7 +741,7 @@ animation20000.pattern0,bind,493,0,0,0
 
 //着せ替え
 
-surface0-9,11-18,21-28,30-46,47-50,52-53,58,62-81,88-90,104,107-111,122-127
+surface0-9,11-18,21-28,30-46,47-50,52-53,58,62-81,88-90,104,107-111,122-129
 {
 //人・エルフ耳
 
@@ -779,7 +779,7 @@ animation602.collisionex12,Ear,polygon,225,230,173,251,224,251
 }
 
 
-surface0-9,11-127,200-231,300-328
+surface0-9,11-129,200-231,300-328
 {
 
 
