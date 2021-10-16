@@ -6,13 +6,13 @@ file,ghost/master/descript.txte885082477e01edf7fa7e342bcf97201size=627date=20
 file,ghost/master/dic00_system.txt5ea140e4946bd80cc0b6b2bd62740affsize=929date=2021-10-12T23:20:01
 file,ghost/master/dic01_Base.txt966f3bb0666e0c2bb3bcd1f28bfaebc7size=4596date=2021-10-15T03:45:22
 file,ghost/master/dic02_Event.txtff8d59a98593d9321a40984bd8523c41size=5419date=2021-10-17T00:33:31
-file,ghost/master/dic03_Menu.txt633711bece0f7864901f1f8d01352da8size=1991date=2021-10-12T23:20:01
+file,ghost/master/dic03_Menu.txt5862551b2df02cde6b8ee69c119edf20size=2045date=2021-10-17T00:39:07
 file,ghost/master/dic04_Change.txt8f87b8dfba4f87e3777769d673b699f9size=690date=2021-10-12T23:20:01
 file,ghost/master/dic05_Communicate.txt14feabd18a1358b137f1ca66232b908bsize=913date=2021-10-12T23:20:01
 file,ghost/master/dic06_String.txt208976fe80b2a3376464e4c8c1c29f82size=2847date=2021-10-15T03:22:56
 file,ghost/master/dic07_Time.txt96be6b551fa17da86e7a5f4497cfd8a1size=2475date=2021-10-12T23:20:01
-file,ghost/master/dic08_RandomTalk.txtbcccbf5d7d7bb3044acbce777d16a43dsize=7512date=2021-10-17T00:35:14
-file,ghost/master/dic09_dic.txtab5637c18973bba41383fdb2a0590a39size=1005date=2021-10-17T00:30:49
+file,ghost/master/dic08_RandomTalk.txtd909e65b08bc95600f93bbf7e5a321bbsize=6536date=2021-10-17T00:38:24
+file,ghost/master/dic09_dic.txtc3007f31a27ed63277bda6793c890327size=1276date=2021-10-17T00:38:48
 file,ghost/master/dic11_touch.txtbab30e8f3b9e1745b54b1af8809def34size=14927date=2021-10-15T03:39:56
 file,ghost/master/replace.txtebb95e5539f623b94d3bbd4e16c5cf89size=269date=2021-10-12T23:20:01
 file,ghost/master/replace_after.txt3512455a7f27780c1b6b1e3e8a780067size=115date=2021-10-12T23:20:01
