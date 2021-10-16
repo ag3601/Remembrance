@@ -13,22 +13,22 @@
 ”ƒƒCƒ“ƒƒjƒ…[@-------------------------------------------------------
 
 –‚P•ª‚¨‚«
-’‚èŠÔŠuyƒ^ƒuz‚U‚O•b
+’‚èŠÔŠu	‚U‚O•b
 Ý’è‚µ‚Ü‚µ‚½B
 –‚Q•ª‚¨‚«
-’‚èŠÔŠuyƒ^ƒuz‚P‚Q‚O•b
+’‚èŠÔŠu	‚P‚Q‚O•b
 Ý’è‚µ‚Ü‚µ‚½B
 
 –‚R‚O•b‚¨‚«
-’‚èŠÔŠuyƒ^ƒuz‚R‚O•b
+’‚èŠÔŠu	‚R‚O•b
 Ý’è‚µ‚Ü‚µ‚½B
 
 –‚R•ª‚¨‚«
-’‚èŠÔŠuyƒ^ƒuz‚P‚W‚O•b
+’‚èŠÔŠu	‚P‚W‚O•b
 Ý’è‚µ‚Ü‚µ‚½B
 
 –‚T•ª‚¨‚«
-’‚èŠÔŠuyƒ^ƒuz‚R‚O‚O•b
+’‚èŠÔŠu	‚R‚O‚O•b
 Ý’è‚µ‚Ü‚µ‚½B
 
 –ƒRƒ~ƒ…ƒƒjƒ…[
@@ -91,7 +91,7 @@
 –ŽU•à‚Ös‚­
 ŽU•à’†ƒtƒ‰ƒO‚P
 –Ž©“®ƒg[ƒN‚È‚µ
-’‚èŠÔŠuyƒ^ƒuz‚O•b
+’‚èŠÔŠu	‚O•b
 Ý’è‚µ‚Ü‚µ‚½B
 
 
