@@ -115,8 +115,8 @@
 ＊OnTalk
 ＞（Ｒ１）	（Ｒ０）
 ＄トーク乱数＝（乱数１～２４）
-＞散歩処理	（散歩中フラグ）==1
-＞トーク処理
+＄r_talk	（）
+（r_talk）
 ＊OnUpdate.OnDownloadBegin
 ：（Ｒ０）（５）ふむふむ。
 
