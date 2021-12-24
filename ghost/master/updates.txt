@@ -2,7 +2,7 @@ charset,OSNative
 file,delete.txtc0501a1912d9c655e5cfba504e8e803fsize=95date=2021-01-29T22:02:42
 file,developer_options.txt5b5a79e5d27da2b59420d8d43f851c48size=353date=2021-10-11T08:21:13
 file,ghost/master/characters.inid41d8cd98f00b204e9800998ecf8427esize=0date=2021-01-31T02:21:21
-file,ghost/master/descript.txte885082477e01edf7fa7e342bcf97201size=627date=2021-10-10T18:38:34
+file,ghost/master/descript.txtcc2b29acca1bc9b97be8b437b67f3343size=631date=2021-12-24T18:13:36
 file,ghost/master/dic00_system.txtf9876136015ca437fe998ba5565b89fasize=873date=2021-10-17T00:17:08
 file,ghost/master/dic01_Base.txt604093bfed43e4839f5563d9c28a4360size=4609date=2021-11-17T18:03:17
 file,ghost/master/dic02_Event.txt0ecf7563bc48ac03ad1f0c6578cc74a7size=5377date=2021-10-17T00:17:08
@@ -11,7 +11,7 @@ file,ghost/master/dic04_Change.txt8f87b8dfba4f87e3777769d673b699f9size=690dat
 file,ghost/master/dic05_Communicate.txt9f714a15e36cf749c51de7efab2c4434size=873date=2021-10-20T03:10:07
 file,ghost/master/dic06_String.txt208976fe80b2a3376464e4c8c1c29f82size=2847date=2021-10-12T17:24:58
 file,ghost/master/dic07_Time.txt2ed988dc1e578ebeb5469f6ca087cecesize=2781date=2021-10-17T01:56:53
-file,ghost/master/dic08_RandomTalk.txt1c7abc2181b1f0b2107b23423c4eec07size=10708date=2021-12-23T05:03:42
+file,ghost/master/dic08_RandomTalk.txt1c7abc2181b1f0b2107b23423c4eec07size=10708date=2021-12-24T18:10:20
 file,ghost/master/dic09_dic.txtc3007f31a27ed63277bda6793c890327size=1276date=2021-10-17T01:58:36
 file,ghost/master/dic11_touch.txte2e731aa17a9e2b9a64d7de503e784b7size=14944date=2021-12-04T22:38:05
 file,ghost/master/dicAnchor.txt8a55d31002bf721dc09ed2973a6aa16csize=71date=2021-12-20T06:14:11
