@@ -108,7 +108,7 @@
 ＊OnShellChanged
 ：（７１）どお？
 ＊OnShellChanging
-：（0）ちょっと服を直してくるわ。
+：（５）ちょっと服を直してくるわ。
 
 
 
