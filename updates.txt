@@ -11,7 +11,7 @@ file,ghost/master/dic04_Change.txt8f87b8dfba4f87e3777769d673b699f9size=690dat
 file,ghost/master/dic05_Communicate.txt9f714a15e36cf749c51de7efab2c4434size=873date=2021-10-20T03:10:07
 file,ghost/master/dic06_String.txt208976fe80b2a3376464e4c8c1c29f82size=2847date=2021-10-12T17:24:58
 file,ghost/master/dic07_Time.txt16f472473cc32bbaa5d54990b92a92a6size=2845date=2021-12-24T18:21:58
-file,ghost/master/dic08_RandomTalk.txtf991088ce08398f425d0156780b9a272size=12622date=2021-12-27T00:55:27
+file,ghost/master/dic08_RandomTalk.txt8823be51731ced92eb23178106d8a7ccsize=13176date=2021-12-27T04:02:57
 file,ghost/master/dic09_dic.txtc3007f31a27ed63277bda6793c890327size=1276date=2021-10-17T01:58:36
 file,ghost/master/dic11_touch.txte2e731aa17a9e2b9a64d7de503e784b7size=14944date=2021-12-04T22:38:05
 file,ghost/master/dicAnchor.txt8a55d31002bf721dc09ed2973a6aa16csize=71date=2021-12-20T06:14:11
@@ -21,8 +21,9 @@ file,ghost/master/saori/ssu.dll3c67160635b9bca7bca2e2b498c098c6size=253952dat
 file,ghost/master/satori.dllb7e3d6a8e33367c24cd64f04446fe99csize=700416date=2021-10-13T12:41:17
 file,ghost/master/satori_conf.txt176489e411dfc0f22879ae4cf45c90cdsize=587date=2021-10-10T18:23:21
 file,ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944date=2021-01-29T03:59:43
+file,ghost/master/????????.txt2eda730acf30889eab37272b795a573fsize=4809date=2021-12-27T04:04:05
 file,install.txtb4134ef4c0db00c56092e5ec0a5e44b8size=86date=2021-10-11T08:21:13
-file,readme.txt23ea8f826f00357679eb7130f4daacd8size=4388date=2021-10-15T20:37:39
+file,readme.txt18b8f1ce8262fa2fe1a0c64394f71313size=1079date=2021-12-27T04:04:15
 file,shell/master/descript.txtf8a2a2b98fe72cccc4094538f2658d4csize=19557date=2021-10-10T18:42:21
 file,shell/master/install.txt25f4395afbf96525ff9cab3375ef50ffsize=62date=2021-02-07T12:41:15
 file,shell/master/note.txt1b196b03a42f288fd227f3f123115189size=1393date=2021-10-11T10:02:00
