@@ -5,13 +5,13 @@ file,ghost/master/characters.inid41d8cd98f00b204e9800998ecf8427esize=0date=20
 file,ghost/master/descript.txtcc2b29acca1bc9b97be8b437b67f3343size=631date=2021-12-24T18:17:31
 file,ghost/master/dic00_system.txtf9876136015ca437fe998ba5565b89fasize=873date=2021-10-17T00:17:08
 file,ghost/master/dic01_Base.txt604093bfed43e4839f5563d9c28a4360size=4609date=2021-11-17T18:03:17
-file,ghost/master/dic02_Event.txt5c48df517948ad71107af542789f4b35size=5378date=2021-12-26T18:27:45
+file,ghost/master/dic02_Event.txt5c48df517948ad71107af542789f4b35size=5378date=2021-12-26T20:10:26
 file,ghost/master/dic03_Menu.txtf8aa42e6305093508ee67956f06f89dbsize=2005date=2021-12-25T12:37:40
 file,ghost/master/dic04_Change.txt8f87b8dfba4f87e3777769d673b699f9size=690date=2021-08-06T13:27:18
 file,ghost/master/dic05_Communicate.txt9f714a15e36cf749c51de7efab2c4434size=873date=2021-10-20T03:10:07
 file,ghost/master/dic06_String.txt208976fe80b2a3376464e4c8c1c29f82size=2847date=2021-10-12T17:24:58
 file,ghost/master/dic07_Time.txt16f472473cc32bbaa5d54990b92a92a6size=2845date=2021-12-24T18:21:58
-file,ghost/master/dic08_RandomTalk.txt5bfd05712c32bace5382bc92c68c4161size=12224date=2021-12-26T19:43:06
+file,ghost/master/dic08_RandomTalk.txtf991088ce08398f425d0156780b9a272size=12622date=2021-12-27T00:55:27
 file,ghost/master/dic09_dic.txtc3007f31a27ed63277bda6793c890327size=1276date=2021-10-17T01:58:36
 file,ghost/master/dic11_touch.txte2e731aa17a9e2b9a64d7de503e784b7size=14944date=2021-12-04T22:38:05
 file,ghost/master/dicAnchor.txt8a55d31002bf721dc09ed2973a6aa16csize=71date=2021-12-20T06:14:11
@@ -442,5 +442,5 @@ file,shell/master/surface8523.png7a1162c029c1b8c9b2d388ce61dff18dsize=15143da
 file,shell/master/surface8524.png43748c74d2bcbfb7318c5ea4c9f1456csize=12964date=2021-08-04T17:40:31
 file,shell/master/surface8525.png6b3a63fa0e01c7d6f357d630cb199cadsize=23184date=2021-08-04T17:40:36
 file,shell/master/surface8526.pngfd5c3b74c65cbf88c917fdcd6aa53b61size=28084date=2021-08-04T17:40:43
-file,shell/master/surfaces.txtec6d4970725f3f967e9e12068c57bcb6size=52849date=2021-12-26T18:24:04
-file,shell/master/surfacetable.txtc6f65a2a1e4734abfbd17da815ba61f6size=5068date=2021-12-26T18:22:34
+file,shell/master/surfaces.txtec6d4970725f3f967e9e12068c57bcb6size=52849date=2021-12-26T20:10:26
+file,shell/master/surfacetable.txtc6f65a2a1e4734abfbd17da815ba61f6size=5068date=2021-12-26T20:10:26
