@@ -100,7 +100,7 @@ sakura.bindgroup11310.name,モミアゲ,モミアゲ長３
 
 //下着上
 
-sakura.bindgroup4200.default,1
+sakura.bindgroup4215.default,1
 sakura.bindgroup4200.name,下着上,ブラ黒
 sakura.bindgroup4201.name,下着上,ブラ白
 sakura.bindgroup4202.name,下着上,ブラ赤
@@ -127,7 +127,7 @@ sakura.bindgroup4218.name,下着上,メイドブラ
 
 //下着下
 
-sakura.bindgroup5000.default,1
+sakura.bindgroup5007.default,1
 sakura.bindgroup5000.name,下着下,パンツ黒
 sakura.bindgroup5001.name,下着下,パンツ白
 sakura.bindgroup5002.name,下着下,パンツ赤
