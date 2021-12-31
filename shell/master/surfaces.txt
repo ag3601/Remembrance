@@ -80,7 +80,7 @@ animation1.pattern4,overlay,450,50,0,0
 
 //–Ú•’ÊÆ‚ê1
 
-surface30,33,38,53,62,71,74,81,88,122,133
+surface30,33,38,53,71,74,81,88,122,133
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
@@ -220,7 +220,7 @@ animation1.pattern4,overlay,451,50,0,0
 
 //–Ú•’Ê—Ü–ÚÆ‚ê1
 
-surface2,34
+surface2,34,62
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
