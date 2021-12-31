@@ -10,7 +10,7 @@ file,ghost/master/dic03_Menu.txtf8aa42e6305093508ee67956f06f89dbsize=2005date
 file,ghost/master/dic04_Change.txt8f87b8dfba4f87e3777769d673b699f9size=690date=2021-08-06T13:27:18
 file,ghost/master/dic05_Communicate.txt9f714a15e36cf749c51de7efab2c4434size=873date=2021-10-20T03:10:07
 file,ghost/master/dic06_String.txt208976fe80b2a3376464e4c8c1c29f82size=2847date=2021-10-12T17:24:58
-file,ghost/master/dic07_Time.txt6606f555e1b8aa7606db695d4d593b34size=2943date=2021-12-31T02:08:30
+file,ghost/master/dic07_Time.txt35416ab46fdca14e38329456ecfd8ccesize=2951date=2021-12-31T02:46:47
 file,ghost/master/dic08_RandomTalk.txtcf7481ba02b7f96a62a2c03a881a4952size=16330date=2021-12-31T02:44:12
 file,ghost/master/dic09_dic.txt8dd9082948d3c69ce343edc2f9955f09size=1300date=2021-12-29T15:35:32
 file,ghost/master/dic11_touch.txte2e731aa17a9e2b9a64d7de503e784b7size=14944date=2021-12-04T22:38:05
