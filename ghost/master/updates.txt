@@ -11,10 +11,10 @@ file,ghost/master/dic04_Change.txt8f87b8dfba4f87e3777769d673b699f9size=690dat
 file,ghost/master/dic05_Communicate.txt9f714a15e36cf749c51de7efab2c4434size=873date=2021-10-20T03:10:07
 file,ghost/master/dic06_String.txt208976fe80b2a3376464e4c8c1c29f82size=2847date=2021-10-12T17:24:58
 file,ghost/master/dic07_Time.txt35416ab46fdca14e38329456ecfd8ccesize=2951date=2021-12-31T02:46:47
-file,ghost/master/dic08_RandomTalk.txt1b98cdc48ba313c50157b74e6d591ca3size=16647date=2022-01-01T03:06:40
-file,ghost/master/dic09_dic.txteb053292f08289b3065f543e184eb342size=1334date=2021-12-31T23:33:10
+file,ghost/master/dic08_RandomTalk.txt1b98cdc48ba313c50157b74e6d591ca3size=16647date=2022-01-03T12:58:16
+file,ghost/master/dic09_dic.txteb053292f08289b3065f543e184eb342size=1334date=2022-01-03T12:58:16
 file,ghost/master/dic11_touch.txte2e731aa17a9e2b9a64d7de503e784b7size=14944date=2021-12-04T22:38:05
-file,ghost/master/dicAnchor.txt8a55d31002bf721dc09ed2973a6aa16csize=71date=2021-12-20T06:14:11
+file,ghost/master/dicAnchor.txt8a55d31002bf721dc09ed2973a6aa16csize=71date=2022-01-03T12:58:16
 file,ghost/master/note.txteb67439585651544f9c9b03169f69638size=3243date=2021-12-28T20:03:16
 file,ghost/master/replace.txtebb95e5539f623b94d3bbd4e16c5cf89size=269date=2021-02-01T00:49:22
 file,ghost/master/replace_after.txt3512455a7f27780c1b6b1e3e8a780067size=115date=2021-01-30T01:19:37
@@ -443,5 +443,5 @@ file,shell/master/surface8523.png7a1162c029c1b8c9b2d388ce61dff18dsize=15143da
 file,shell/master/surface8524.png43748c74d2bcbfb7318c5ea4c9f1456csize=12964date=2021-08-04T17:40:31
 file,shell/master/surface8525.png6b3a63fa0e01c7d6f357d630cb199cadsize=23184date=2021-08-04T17:40:36
 file,shell/master/surface8526.pngfd5c3b74c65cbf88c917fdcd6aa53b61size=28084date=2021-08-04T17:40:43
-file,shell/master/surfaces.txt77a452dd0f959c6cc07766c88277f30asize=52849date=2021-12-30T20:44:24
-file,shell/master/surfacetable.txt309cf4b3b2a8b41e053ba6061f89974fsize=5072date=2021-12-30T20:43:17
+file,shell/master/surfaces.txt77a452dd0f959c6cc07766c88277f30asize=52849date=2022-01-03T12:58:16
+file,shell/master/surfacetable.txt309cf4b3b2a8b41e053ba6061f89974fsize=5072date=2022-01-03T12:58:16
