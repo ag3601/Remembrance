@@ -23,7 +23,7 @@ collisionex10,xxx,circle,270,529,10
 }
 
 //–Ú•Â‚¶
-surface15,37,42,79,109,132,138,165,169
+surface15,37,42,79,109,132,138,165,168-169
 {
 element3,overlay,surface470.png,0,0
 }
@@ -67,7 +67,7 @@ element3,overlay,surface472.png,0,0
 }
 
 //–Ú•’Ê
-surface0,5-6,46,65-66,77,107,130,136,163,166,169
+surface0,5-6,46,65-66,77,107,130,136,163,166
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
