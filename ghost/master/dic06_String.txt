@@ -110,7 +110,7 @@ https://ncode.syosetu.com/n1031fh/
 ＠shellscalerootbutton.caption
 もっと私に近寄って
 ＠updatebutton.caption
-新しい手紙があるかもしれないわ
+更新
 ＠username
 （ユーザ名）　
 
