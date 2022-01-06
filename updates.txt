@@ -11,11 +11,11 @@ file,ghost/master/dic04_Change.txt8f87b8dfba4f87e3777769d673b699f9size=690dat
 file,ghost/master/dic05_Communicate.txt9f714a15e36cf749c51de7efab2c4434size=873date=2021-10-24T04:01:09
 file,ghost/master/dic06_String.txt19b8f14f7355f3acd7e3476722f886f8size=2821date=2022-01-06T00:19:55
 file,ghost/master/dic07_Time.txt35416ab46fdca14e38329456ecfd8ccesize=2951date=2022-01-03T21:44:25
-file,ghost/master/dic08_RandomTalk.txtf324f95f2223ebcd5dd86a0f790bb23bsize=20739date=2022-01-06T00:57:11
+file,ghost/master/dic08_RandomTalk.txtb20bd382b8d994cb8312a57c9c82be32size=21282date=2022-01-06T02:55:26
 file,ghost/master/dic09_dic.txteb053292f08289b3065f543e184eb342size=1334date=2022-01-03T21:44:25
 file,ghost/master/dic11_touch.txt728a2071f9846f1f36bd0c34d6e9704csize=14685date=2022-01-06T00:21:56
 file,ghost/master/dicAnchor.txtee4d1253f60b34a5262e64c07d42fda2size=992date=2022-01-06T00:19:55
-file,ghost/master/note.txt9f6b973c32b473ebca0f265d954d0c5bsize=1930date=2022-01-06T00:43:33
+file,ghost/master/note.txt8fb3247bc4cf4ab434243b1b07e88bf1size=1890date=2022-01-06T01:52:30
 file,ghost/master/replace.txtebb95e5539f623b94d3bbd4e16c5cf89size=269date=2021-10-12T22:20:01
 file,ghost/master/replace_after.txt3512455a7f27780c1b6b1e3e8a780067size=115date=2021-10-12T22:20:01
 file,ghost/master/saori/ssu.dll3c67160635b9bca7bca2e2b498c098c6size=253952date=2021-10-07T05:18:26
