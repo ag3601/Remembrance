@@ -8,7 +8,7 @@ option,DisableNoDefineSurfaces
 
 0,\0‘f
 1,\0”¼–ÚÆ‚ê
-2,\0”÷Î‚Ý—Ü–Ú
+2,\0”÷Î‚ÝÆ‚ê—Ü–Ú
 3,\0”¼–Ú‹ƒ‚«
 4,\0”ß‚µ‚¢”¼–Ú—Ü–Ú
 5,\0”÷Î‚Ý–ÚŠJ‚«

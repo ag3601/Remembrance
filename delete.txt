@@ -5,3 +5,4 @@ thumbnail.pnr
 cover.png
 54icon.ico
 ノートみたいな物.txt
+note.txt
