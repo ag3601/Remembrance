@@ -4,15 +4,15 @@ file,developer_options.txt5b5a79e5d27da2b59420d8d43f851c48size=353date=2021-1
 file,ghost/master/characters.inid41d8cd98f00b204e9800998ecf8427esize=0date=2021-01-31T02:21:21
 file,ghost/master/descript.txtcc2b29acca1bc9b97be8b437b67f3343size=631date=2021-12-24T18:17:31
 file,ghost/master/dic00_system.txt2fc87f2c68e27581ae0d9336e5cdf065size=877date=2021-12-29T22:15:40
-file,ghost/master/dic01_Base.txtd22c3c475d95dc41c079e24c1f15ea2csize=4817date=2021-12-29T22:15:41
-file,ghost/master/dic02_Event.txtb8b30889cab3a199cc4a5c55c9e7aee7size=5376date=2021-12-29T22:15:41
-file,ghost/master/dic03_Menu.txt2f029ebbb02455acfe66d41f32fa8ba1size=2005date=2022-01-04T07:53:17
+file,ghost/master/dic01_Base.txtce146794745bb6adf4aaeafeca09cb67size=5141date=2022-01-12T20:50:15
+file,ghost/master/dic02_Event.txt0b2a8a5b43e7fc02c189b60d4400b8d4size=5094date=2022-01-12T20:50:15
+file,ghost/master/dic03_Menu.txt9a04783556662fc133d00e7a4275b716size=2087date=2022-01-12T21:34:59
 file,ghost/master/dic04_Change.txt8f87b8dfba4f87e3777769d673b699f9size=690date=2021-08-06T13:27:18
 file,ghost/master/dic05_Communicate.txt9f714a15e36cf749c51de7efab2c4434size=873date=2021-10-20T03:10:07
 file,ghost/master/dic06_String.txt19b8f14f7355f3acd7e3476722f886f8size=2821date=2022-01-05T21:19:34
 file,ghost/master/dic07_Time.txt35416ab46fdca14e38329456ecfd8ccesize=2951date=2021-12-31T02:46:47
-file,ghost/master/dic08_RandomTalk.txt7794932dd2d1a40f89b215e74dd43741size=25564date=2022-01-12T02:38:33
-file,ghost/master/dic09_dic.txteb053292f08289b3065f543e184eb342size=1334date=2022-01-03T12:58:16
+file,ghost/master/dic08_RandomTalk.txt36cee59b35c3a8defc534171b3ca2e0fsize=31158date=2022-01-12T21:34:46
+file,ghost/master/dic09_dic.txt4238538db1cd6397da98229f837d8beesize=1342date=2022-01-12T20:46:08
 file,ghost/master/dic11_touch.txt4f0358f56e39ed1b0c461c492bbd32afsize=14512date=2022-01-11T15:48:19
 file,ghost/master/dicAnchor.txtee4d1253f60b34a5262e64c07d42fda2size=992date=2022-01-05T23:46:01
 file,ghost/master/note.txt8fb3247bc4cf4ab434243b1b07e88bf1size=1890date=2022-01-06T11:18:00
@@ -20,7 +20,7 @@ file,ghost/master/replace.txtebb95e5539f623b94d3bbd4e16c5cf89size=269date=202
 file,ghost/master/replace_after.txt3512455a7f27780c1b6b1e3e8a780067size=115date=2021-01-30T01:19:37
 file,ghost/master/saori/ssu.dll3c67160635b9bca7bca2e2b498c098c6size=253952date=2021-10-13T12:41:17
 file,ghost/master/satori.dllb7e3d6a8e33367c24cd64f04446fe99csize=700416date=2021-10-13T12:41:17
-file,ghost/master/satori_conf.txt868ebfe11ae160f45bab5de6c0b72084size=556date=2021-12-29T22:15:41
+file,ghost/master/satori_conf.txtb7b9ea12eba928fee0bfe98ac480b355size=575date=2022-01-12T20:38:27
 file,ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944date=2021-01-29T03:59:43
 file,install.txtb4134ef4c0db00c56092e5ec0a5e44b8size=86date=2021-10-11T08:21:13
 file,readme.txt2e6c24d785b470531d169086bb498775size=1165date=2022-01-11T12:27:16
@@ -444,4 +444,4 @@ file,shell/master/surface8524.png43748c74d2bcbfb7318c5ea4c9f1456csize=12964da
 file,shell/master/surface8525.png6b3a63fa0e01c7d6f357d630cb199cadsize=23184date=2021-08-04T17:40:36
 file,shell/master/surface8526.pngfd5c3b74c65cbf88c917fdcd6aa53b61size=28084date=2021-08-04T17:40:43
 file,shell/master/surfaces.txt25f9603a57628279a56581a4408487f8size=53411date=2022-01-04T18:55:55
-file,shell/master/surfacetable.txt4e727880fc0f3f40ea3bfa6fe0c9e32esize=5808date=2022-01-06T11:18:00
+file,shell/master/surfacetable.txt9f9b88867422190b2ca12128fda8e0bdsize=5812date=2022-01-12T19:12:41
