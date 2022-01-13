@@ -13,7 +13,7 @@ file,ghost/master/dic06_String.txt19b8f14f7355f3acd7e3476722f886f8size=2821da
 file,ghost/master/dic07_Time.txt35416ab46fdca14e38329456ecfd8ccesize=2951date=2021-12-31T02:46:47
 file,ghost/master/dic08_RandomTalk.txt5f881c90f61ab66806da72912ba54fa6size=31212date=2022-01-13T01:40:09
 file,ghost/master/dic09_dic.txt4238538db1cd6397da98229f837d8beesize=1342date=2022-01-12T22:02:24
-file,ghost/master/dic11_touch.txt4f0358f56e39ed1b0c461c492bbd32afsize=14512date=2022-01-11T15:48:19
+file,ghost/master/dic11_touch.txt6e45ff9895c3d8b0e236e85225a9d4e9size=14512date=2022-01-13T02:05:47
 file,ghost/master/dicAnchor.txtee4d1253f60b34a5262e64c07d42fda2size=992date=2022-01-05T23:46:01
 file,ghost/master/replace.txtebb95e5539f623b94d3bbd4e16c5cf89size=269date=2021-02-01T00:49:22
 file,ghost/master/replace_after.txt3512455a7f27780c1b6b1e3e8a780067size=115date=2021-01-30T01:19:37
