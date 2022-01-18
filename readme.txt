@@ -10,6 +10,10 @@
 
 https://ncode.syosetu.com/n2357dn/
 
+薬の魔物シリーズ
+
+https://ncode.syosetu.com/s2211f/
+
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
 このゴーストは原作の重大なネタバレまみれのでご注意下さい。
