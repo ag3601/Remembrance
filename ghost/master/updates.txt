@@ -1,5 +1,5 @@
 charset,UTF-8
-file,delete.txtf437ac74d20d34f59e34d430149cc898size=153date=2022-01-20T21:41:37
+file,delete.txtf437ac74d20d34f59e34d430149cc898size=153date=2022-01-20T22:38:03
 file,developer_options.txt5b5a79e5d27da2b59420d8d43f851c48size=353date=2021-10-11T08:21:13
 file,ghost/master/characters.inid41d8cd98f00b204e9800998ecf8427esize=0date=2021-01-31T02:21:21
 file,ghost/master/descript.txt9aed7270c7f58b2be06d282f75af9b10size=647date=2022-01-12T22:02:24
@@ -11,7 +11,7 @@ file,ghost/master/dic04_Change.txtcfcd31bb16aed5c3d8333ad2a824980asize=698dat
 file,ghost/master/dic05_Communicate.txt9f714a15e36cf749c51de7efab2c4434size=873date=2021-10-20T03:10:07
 file,ghost/master/dic06_String.txt19b8f14f7355f3acd7e3476722f886f8size=2821date=2022-01-05T21:19:34
 file,ghost/master/dic07_Time.txt5a971adff45f00769e20ec9075b64bf6size=2985date=2022-01-17T21:15:27
-file,ghost/master/dic08_RandomTalk.txt86e66f12cca9963b9a0908e728e507a7size=33741date=2022-01-20T17:03:14
+file,ghost/master/dic08_RandomTalk.txt8cec30c41e3b10cc4b2ede892a2ded35size=33993date=2022-01-21T23:36:59
 file,ghost/master/dic09_dic.txt4238538db1cd6397da98229f837d8beesize=1342date=2022-01-12T22:02:24
 file,ghost/master/dic11_touch.txt89e562db062ee97a19bfeb2ef2537b12size=14755date=2022-01-20T17:03:11
 file,ghost/master/dicAnchor.txtee4d1253f60b34a5262e64c07d42fda2size=992date=2022-01-05T23:46:01
@@ -113,7 +113,7 @@ file,shell/master/surface2081.png8dea68ccf8a4a5b73490a3a96a8efb41size=57371da
 file,shell/master/surface2082.png04496d1f50ce0746ca1388002eed5a42size=60454date=2021-01-31T02:21:21
 file,shell/master/surface2083.png397617ac5a6e30ca3a38d32db196216dsize=54157date=2021-01-31T02:21:21
 file,shell/master/surface2084.pngaee818fc419a33b17829dc58d31ab005size=60440date=2021-01-31T02:21:21
-file,shell/master/surface2085.png5179fd63049b7c7b85efc0931e407a16size=59134date=2022-01-20T22:34:59
+file,shell/master/surface2085.png5179fd63049b7c7b85efc0931e407a16size=59134date=2022-01-20T22:38:03
 file,shell/master/surface2086.png61806ead263086b487c005dd3b97a699size=38465date=2021-01-31T02:21:21
 file,shell/master/surface2087.png7db8f85cbfa6dd260d68716256c8f06csize=53274date=2021-01-31T02:21:21
 file,shell/master/surface2088.png812c972f35acd9d2d6770656ffa2db46size=58789date=2021-01-31T02:21:21
@@ -442,6 +442,6 @@ file,shell/master/surface8523.png7a1162c029c1b8c9b2d388ce61dff18dsize=15143da
 file,shell/master/surface8524.png43748c74d2bcbfb7318c5ea4c9f1456csize=12964date=2021-08-04T17:40:31
 file,shell/master/surface8525.png6b3a63fa0e01c7d6f357d630cb199cadsize=23184date=2021-08-04T17:40:36
 file,shell/master/surface8526.pngfd5c3b74c65cbf88c917fdcd6aa53b61size=28084date=2021-08-04T17:40:43
-file,shell/master/surfaces1.txt863e0c68d435ea3e34f566e8fc6e3dc1size=20508date=2022-01-20T21:41:13
-file,shell/master/surfaces2.txt70a698a4eb9448560d3997e0577c24edsize=33319date=2022-01-20T21:41:13
-file,shell/master/surfacetable.txt0d2f20ecaa1d2c90ce91daf77cbe5c87size=5834date=2022-01-20T17:03:14
+file,shell/master/surfaces1.txt863e0c68d435ea3e34f566e8fc6e3dc1size=20508date=2022-01-20T22:38:03
+file,shell/master/surfaces2.txt70a698a4eb9448560d3997e0577c24edsize=33319date=2022-01-20T22:38:03
+file,shell/master/surfacetable.txt54c8944e78df5abf7507bc610d8c1b91size=5838date=2022-01-21T22:14:18
