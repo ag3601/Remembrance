@@ -355,24 +355,6 @@ sakura.bindgroup5322.name,靴,ブーツ茶
 //髪アクセサリー　
 
 sakura.bindoption.group,髪アクセサリー,multiple
-sakura.bindgroup15012.name,髪アクセサリー,リボン１左右黒
-sakura.bindgroup15013.name,髪アクセサリー,リボン１左右白
-sakura.bindgroup15014.name,髪アクセサリー,リボン１左右赤
-sakura.bindgroup15015.name,髪アクセサリー,リボン２左右黒
-sakura.bindgroup15016.name,髪アクセサリー,リボン２左右白
-sakura.bindgroup15017.name,髪アクセサリー,リボン２左右赤
-sakura.bindgroup15000.name,髪アクセサリー,リボン１右黒
-sakura.bindgroup15001.name,髪アクセサリー,リボン１右白
-sakura.bindgroup15002.name,髪アクセサリー,リボン１右赤
-sakura.bindgroup15003.name,髪アクセサリー,リボン１左黒
-sakura.bindgroup15004.name,髪アクセサリー,リボン１左白
-sakura.bindgroup15005.name,髪アクセサリー,リボン１左赤
-sakura.bindgroup15006.name,髪アクセサリー,リボン２右黒
-sakura.bindgroup15007.name,髪アクセサリー,リボン２右白
-sakura.bindgroup15008.name,髪アクセサリー,リボン２右赤
-sakura.bindgroup15009.name,髪アクセサリー,リボン２左黒
-sakura.bindgroup15010.name,髪アクセサリー,リボン２左白
-sakura.bindgroup15011.name,髪アクセサリー,リボン２左赤
 sakura.bindgroup15021.name,髪アクセサリー,カチューシャ黒
 sakura.bindgroup15022.name,髪アクセサリー,カチューシャ白
 sakura.bindgroup15023.name,髪アクセサリー,カチューシャ赤
