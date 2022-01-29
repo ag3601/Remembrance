@@ -140,7 +140,8 @@
 手紙ね。ｗ９ｗ５
 
 （Ｒ０）との報告があったわ。
-
+ｗ９ｗ９
+＞OnBoot
 ＊OnUpdatedataCreated
 ：（５）完了したわ。
 
