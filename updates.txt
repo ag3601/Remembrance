@@ -4,8 +4,8 @@ file,developer_options.txt5b5a79e5d27da2b59420d8d43f851c48size=353date=2021-1
 file,ghost/master/characters.inid41d8cd98f00b204e9800998ecf8427esize=0date=2021-01-31T02:21:21
 file,ghost/master/descript.txt9aed7270c7f58b2be06d282f75af9b10size=647date=2022-01-12T22:02:24
 file,ghost/master/dic00_system.txt2fc87f2c68e27581ae0d9336e5cdf065size=877date=2021-12-29T22:15:40
-file,ghost/master/dic01_Base.txtf0b51ba4cee96354e71291bbb9ae8a16size=5661date=2022-01-29T17:29:43
-file,ghost/master/dic02_Event.txtefa437079a2cb31d1aa9072498fb0594size=5247date=2022-01-29T18:21:45
+file,ghost/master/dic01_Base.txt412aefe70addfb5eb0b4d65d2771ba15size=5758date=2022-01-29T18:26:07
+file,ghost/master/dic02_Event.txt02bad7f27d228970a67f92bddff26c1fsize=5126date=2022-01-29T18:26:12
 file,ghost/master/dic03_Menu.txt2ff00ddeaaffd37eab85169ef1e7a25bsize=2094date=2022-01-14T14:03:22
 file,ghost/master/dic04_Change.txtcfcd31bb16aed5c3d8333ad2a824980asize=698date=2022-01-13T02:11:14
 file,ghost/master/dic05_Communicate.txt9f714a15e36cf749c51de7efab2c4434size=873date=2021-10-20T03:10:07
