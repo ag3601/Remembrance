@@ -70,16 +70,15 @@
 ＞他のゴーストへ変更早い	（単純起動分）＜＝２
 
 ＊OnInstallBegin
-：インストール開始。
+\p[2]（インストール開始。）
 
 ＊OnInstallComplete
 ＞（Ｒ１）をインストール
-（Ｒ１）/（Ｒ０）をインストールしました。
+\p[2]（Ｒ１）/（Ｒ０）をインストールしました。
 ＊OnInstallFailure
-インストール失敗。
+\p[2]（インストール失敗。）
 ＊OnInstallRefuse
-：
-これは『（call（バイト値、１）KillDangerousTag（バイト値、１）（Ｒ０））』さん専用だそうです。
+\p[2]（これは『（call（バイト値、１）KillDangerousTag（バイト値、１）（Ｒ０））』専用のようだ。）
 
 ＊OnKeyPress
 ＞（Ｒ０）が押された
