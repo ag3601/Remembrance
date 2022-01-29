@@ -79,7 +79,70 @@ sakura.bindgroup14021.addid,221
 
 sakura.bindoption0.group,後髪,mustselect
 sakura.bindgroup1104.default,1
+sakura.bindgroup1160.name,後髪,ベース
+sakura.bindgroup1185.name,後髪,ツインベース
 sakura.bindgroup1104.name,後髪,ロング５
+sakura.bindgroup1105.name,後髪,ロング６
+sakura.bindgroup1108.name,後髪,ポニーテール２
+＃sakura.bindgroup1300.name,後髪,ポニーテール２
+sakura.bindgroup1108.addid,1300
+sakura.bindgroup1111.name,後髪,ポニーテール５
+sakura.bindgroup1213.name,後髪,ショットポニーテール１
+sakura.bindgroup1213.addid,1303
+＃sakura.bindgroup1213.name,後髪,ショットポニーテール１
+sakura.bindgroup1214.name,後髪,ショットポニーテール２
+sakura.bindgroup1214.addid,1304
+＃sakura.bindgroup1214.name,後髪,ショットポニーテール２
+sakura.bindgroup1215.name,後髪,セミロングポニーテール
+sakura.bindgroup1215.addid,1305
+＃sakura.bindgroup1215.name,後髪,セミロングポニーテール
+sakura.bindgroup1216.name,後髪,ロングポニーテール１
+sakura.bindgroup1216.addid,1306
+＃sakura.bindgroup1216.name,後髪,ロングポニーテール１
+sakura.bindgroup1217.name,後髪,ロングポニーテール２
+sakura.bindgroup1217.addid,1307
+＃sakura.bindgroup1217.name,後髪,ロングポニーテール２
+sakura.bindgroup1218.name,後髪,ロングポニーテール３
+sakura.bindgroup1218.addid,1308
+＃sakura.bindgroup1218.name,後髪,ロングポニーテール３
+
+
+//後髪パーツ （後髪より後ろのモノ全般、９００番を借ります。）
+
+sakura.bindoption.group,後髪パーツ,multiple
+sakura.bindgroup920.name,後髪パーツ,おさげ１右
+sakura.bindgroup921.name,後髪パーツ,おさげ１左
+sakura.bindgroup922.name,後髪パーツ,おさげ２右
+sakura.bindgroup923.name,後髪パーツ,おさげ２左
+sakura.bindgroup924.name,後髪パーツ,おさげ３右
+sakura.bindgroup925.name,後髪パーツ,おさげ３左
+sakura.bindgroup926.name,後髪パーツ,おさげロング右
+sakura.bindgroup927.name,後髪パーツ,おさげロング左
+sakura.bindgroup1026.name,後髪パーツ,サイドテール１右
+sakura.bindgroup1027.name,後髪パーツ,サイドテール２右
+sakura.bindgroup1028.name,後髪パーツ,サイドテール３右
+sakura.bindgroup1029.name,後髪パーツ,サイドテール４右
+sakura.bindgroup1030.name,後髪パーツ,サイドテール５右
+sakura.bindgroup1031.name,後髪パーツ,サイドテール６右
+sakura.bindgroup1032.name,後髪パーツ,サイドテール７右
+sakura.bindgroup1033.name,後髪パーツ,サイドテール８右
+sakura.bindgroup1034.name,後髪パーツ,サイドテール９右
+sakura.bindgroup1035.name,後髪パーツ,サイドテール１０右
+sakura.bindgroup1038.name,後髪パーツ,サイドテール１３右
+sakura.bindgroup1044.name,後髪パーツ,サイドテール１９右
+sakura.bindgroup1045.name,後髪パーツ,サイドテール１左
+sakura.bindgroup1046.name,後髪パーツ,サイドテール２左
+sakura.bindgroup1047.name,後髪パーツ,サイドテール３左
+sakura.bindgroup1048.name,後髪パーツ,サイドテール４左
+sakura.bindgroup1049.name,後髪パーツ,サイドテール５左
+sakura.bindgroup1050.name,後髪パーツ,サイドテール６左
+sakura.bindgroup1051.name,後髪パーツ,サイドテール７左
+sakura.bindgroup1052.name,後髪パーツ,サイドテール８左
+sakura.bindgroup1053.name,後髪パーツ,サイドテール９左
+sakura.bindgroup1054.name,後髪パーツ,サイドテール１０左
+sakura.bindgroup1057.name,後髪パーツ,サイドテール１３左
+sakura.bindgroup1063.name,後髪パーツ,サイドテール１９左
+
 
 
 //横髪
@@ -87,14 +150,18 @@ sakura.bindgroup1104.name,後髪,ロング５
 sakura.bindoption0.group,横髪,mustselect
 sakura.bindgroup12200.default,1
 sakura.bindgroup12200.name,横髪,横髪
-
+sakura.bindgroup12211.name,横髪,横髪パッツン１
+sakura.bindgroup12212.name,横髪,横髪パッツン２
 
 
 //モミアゲ
 
-sakura.bindoption0.group,モミアゲ,mustselect
-sakura.bindgroup11310.default,1
-sakura.bindgroup11310.name,モミアゲ,モミアゲ長３
+//sakura.bindoption0.group,モミアゲ,mustselect
+sakura.bindgroup11302.default,1
+sakura.bindgroup11301.name,モミアゲ,モミアゲ細
+sakura.bindgroup11310.name,モミアゲ,モミアゲ細２
+sakura.bindgroup11303.name,モミアゲ,モミアゲ長１
+sakura.bindgroup11302.name,モミアゲ,モミアゲ長２
 
 
 
@@ -364,6 +431,49 @@ sakura.bindgroup15045.name,髪アクセサリー,花１右
 sakura.bindgroup15046.name,髪アクセサリー,花１左
 sakura.bindgroup15047.name,髪アクセサリー,花２右
 sakura.bindgroup15048.name,髪アクセサリー,花２左
+
+
+//後髪アクセサリー
+
+sakura.bindgroup1000.name,後髪アクセサリー,リボン後黒
+sakura.bindgroup1001.name,後髪アクセサリー,リボン後白
+sakura.bindgroup1002.name,後髪アクセサリー,リボン後赤
+sakura.bindgroup1064.name,後髪アクセサリー,リボン１左右黒
+sakura.bindgroup1065.name,後髪アクセサリー,リボン１左右白
+sakura.bindgroup1066.name,後髪アクセサリー,リボン１左右赤
+sakura.bindgroup1067.name,後髪アクセサリー,リボン２左右黒
+sakura.bindgroup1068.name,後髪アクセサリー,リボン２左右白
+sakura.bindgroup1069.name,後髪アクセサリー,リボン２左右赤
+sakura.bindgroup1070.name,後髪アクセサリー,リボン１右黒
+sakura.bindgroup1071.name,後髪アクセサリー,リボン１右白
+sakura.bindgroup1072.name,後髪アクセサリー,リボン１右赤
+sakura.bindgroup1073.name,後髪アクセサリー,リボン１左黒
+sakura.bindgroup1074.name,後髪アクセサリー,リボン１左白
+sakura.bindgroup1075.name,後髪アクセサリー,リボン１左赤
+sakura.bindgroup1076.name,後髪アクセサリー,リボン２右黒
+sakura.bindgroup1077.name,後髪アクセサリー,リボン２右白
+sakura.bindgroup1078.name,後髪アクセサリー,リボン２右赤
+sakura.bindgroup1079.name,後髪アクセサリー,リボン２左黒
+sakura.bindgroup1080.name,後髪アクセサリー,リボン２左白
+sakura.bindgroup1081.name,後髪アクセサリー,リボン２左赤
+sakura.bindgroup1082.name,後髪アクセサリー,リボン３左右黒
+sakura.bindgroup1083.name,後髪アクセサリー,リボン３左右白
+sakura.bindgroup1084.name,後髪アクセサリー,リボン３左右赤
+sakura.bindgroup1085.name,後髪アクセサリー,うさリボン左右黒
+sakura.bindgroup1086.name,後髪アクセサリー,うさリボン左右白
+sakura.bindgroup1087.name,後髪アクセサリー,うさリボン左右赤
+sakura.bindgroup1088.name,後髪アクセサリー,リボン３右黒
+sakura.bindgroup1089.name,後髪アクセサリー,リボン３右白
+sakura.bindgroup1090.name,後髪アクセサリー,リボン３右赤
+sakura.bindgroup1091.name,後髪アクセサリー,リボン３左黒
+sakura.bindgroup1092.name,後髪アクセサリー,リボン３左白
+sakura.bindgroup1093.name,後髪アクセサリー,リボン３左赤
+sakura.bindgroup1094.name,後髪アクセサリー,うさリボン右黒
+sakura.bindgroup1095.name,後髪アクセサリー,うさリボン右白
+sakura.bindgroup1096.name,後髪アクセサリー,うさリボン右赤
+sakura.bindgroup1097.name,後髪アクセサリー,うさリボン左黒
+sakura.bindgroup1098.name,後髪アクセサリー,うさリボン左白
+sakura.bindgroup1099.name,後髪アクセサリー,うさリボン左赤
 
 
 //帽子
