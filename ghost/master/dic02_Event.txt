@@ -1,265 +1,265 @@
 
-”@-----------------------------------------------------
-”@
-”@shioriŒÝŠ·dllw—¢Xi‚³‚Æ‚èjx—pŽ«‘
-”@
-”@ƒCƒxƒ“ƒgƒg[ƒNB
-”@
-”@-----------------------------------------------------
+ï¼ƒã€€-----------------------------------------------------
+ï¼ƒã€€
+ï¼ƒã€€shioriäº’æ›dllã€Žé‡Œã€…ï¼ˆã•ã¨ã‚Šï¼‰ã€ç”¨è¾žæ›¸
+ï¼ƒã€€
+ï¼ƒã€€ã‚¤ãƒ™ãƒ³ãƒˆãƒˆãƒ¼ã‚¯ã€‚
+ï¼ƒã€€
+ï¼ƒã€€-----------------------------------------------------
 
 
 
-–c‚ª‰Ÿ‚³‚ê‚½
-„ƒRƒ~ƒ…
-–OnBatteryCritical
-Fi‚P‚V‚Rj‚Î‚Á‚Ä‚è[‚ªŽc‚èi‚q‚Oj“B
+ï¼ŠcãŒæŠ¼ã•ã‚ŒãŸ
+ï¼žã‚³ãƒŸãƒ¥
+ï¼ŠOnBatteryCritical
+ï¼šï¼ˆï¼‘ï¼—ï¼“ï¼‰ã°ã£ã¦ã‚Šãƒ¼ãŒæ®‹ã‚Šï¼ˆï¼²ï¼ï¼‰ï¼…ã€‚
 
-i‚P‚V‚Pj­‚µ‹x‚ñ‚¾•û‚ª—Ç‚¢‚íB
-–OnBatteryLow
-Fi‚P‚V‚Rj‚Î‚Á‚Ä‚è[‚ªŽc‚èi‚q‚Oj“B
+ï¼ˆï¼‘ï¼—ï¼‘ï¼‰å°‘ã—ä¼‘ã‚“ã æ–¹ãŒè‰¯ã„ã‚ã€‚
+ï¼ŠOnBatteryLow
+ï¼šï¼ˆï¼‘ï¼—ï¼“ï¼‰ã°ã£ã¦ã‚Šãƒ¼ãŒæ®‹ã‚Šï¼ˆï¼²ï¼ï¼‰ï¼…ã€‚
 
-i‚P‚V‚Pj‚—‚T‘åä•vH
+ï¼ˆï¼‘ï¼—ï¼‘ï¼‰ï½—ï¼•å¤§ä¸ˆå¤«ï¼Ÿ
 
 
-–OnBoot
-I—¹‚©‚çŒo‰ß“ú”=itime_checkAhow_many_daysAiI—¹”NjAiI—¹ŒŽjAiI—¹“újj*-1
-I—¹“ú‚©‚ç‚ÌŒo‰ß“ú”=i‹N“®Žž‚Ì“ú”‡Œvj-iI—¹Žž‚Ì“ú”‡Œvj
-ŽU•à’†ƒtƒ‰ƒO‚O
-ƒfƒtƒHƒ‹ƒgƒT[ƒtƒFƒX1-1
+ï¼ŠOnBoot
+ï¼„çµ‚äº†ã‹ã‚‰çµŒéŽæ—¥æ•°=ï¼ˆtime_checkã€how_many_daysã€ï¼ˆçµ‚äº†å¹´ï¼‰ã€ï¼ˆçµ‚äº†æœˆï¼‰ã€ï¼ˆçµ‚äº†æ—¥ï¼‰ï¼‰*-1
+ï¼„çµ‚äº†æ—¥ã‹ã‚‰ã®çµŒéŽæ—¥æ•°=ï¼ˆèµ·å‹•æ™‚ã®æ—¥æ•°åˆè¨ˆï¼‰-ï¼ˆçµ‚äº†æ™‚ã®æ—¥æ•°åˆè¨ˆï¼‰
+ï¼„æ•£æ­©ä¸­ãƒ•ãƒ©ã‚°ï¼ï¼
+ï¼„ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã‚µãƒ¼ãƒ•ã‚§ã‚¹1ï¼-1
 
-„‹N“®
-–OnChoiceSelect
-„i‚q‚Oj
-i‘I‘ðŽˆ‚ÌƒWƒƒƒ“ƒvæui‚q‚Ojv‚Í‘¶Ý‚µ‚Ü‚¹‚ñB‹Lqƒ~ƒXHj
+ï¼žèµ·å‹•
+ï¼ŠOnChoiceSelect
+ï¼žï¼ˆï¼²ï¼ï¼‰
+ï¼ˆé¸æŠžè‚¢ã®ã‚¸ãƒ£ãƒ³ãƒ—å…ˆã€Œï¼ˆï¼²ï¼ï¼‰ã€ã¯å­˜åœ¨ã—ã¾ã›ã‚“ã€‚è¨˜è¿°ãƒŸã‚¹ï¼Ÿï¼‰
 
-–OnChoiceTimeout
-FH
+ï¼ŠOnChoiceTimeout
+ï¼šï¼Ÿ
 
 
 
-”--------------------------------------------------------------------
-”
-”@Á–ÅŽwŽ¦‚ÌŽü•ÓB
-”
+ï¼ƒ--------------------------------------------------------------------
+ï¼ƒ
+ï¼ƒã€€æ¶ˆæ»…æŒ‡ç¤ºã®å‘¨è¾ºã€‚
+ï¼ƒ
 
-–OnClose
-I—¹”N	iŒ»Ý”Nj
-I—¹ŒŽ	iŒ»ÝŒŽj
-I—¹“ú	iŒ»Ý“új
-I—¹Žž	iŒ»ÝŽžj
-I—¹•ª	iŒ»Ý•ªj
-ŽU•à’†ƒtƒ‰ƒO‚O
+ï¼ŠOnClose
+ï¼„çµ‚äº†å¹´	ï¼ˆç¾åœ¨å¹´ï¼‰
+ï¼„çµ‚äº†æœˆ	ï¼ˆç¾åœ¨æœˆï¼‰
+ï¼„çµ‚äº†æ—¥	ï¼ˆç¾åœ¨æ—¥ï¼‰
+ï¼„çµ‚äº†æ™‚	ï¼ˆç¾åœ¨æ™‚ï¼‰
+ï¼„çµ‚äº†åˆ†	ï¼ˆç¾åœ¨åˆ†ï¼‰
+ï¼„æ•£æ­©ä¸­ãƒ•ãƒ©ã‚°ï¼ï¼
 
-„I—¹
+ï¼žçµ‚äº†
 
-–OnFirstBoot
-„‰‰ñ
+ï¼ŠOnFirstBoot
+ï¼žåˆå›ž
 
-–OnGhostChanged
-„iŒ»ÝŒŽjŒŽiŒ»Ý“új“ú
-„‘¼‚ÌƒS[ƒXƒg‚©‚ç•ÏX
+ï¼ŠOnGhostChanged
+ï¼žï¼ˆç¾åœ¨æœˆï¼‰æœˆï¼ˆç¾åœ¨æ—¥ï¼‰æ—¥
+ï¼žä»–ã®ã‚´ãƒ¼ã‚¹ãƒˆã‹ã‚‰å¤‰æ›´
 
-–OnGhostChanging
-I—¹”N	iŒ»Ý”Nj
-I—¹ŒŽ	iŒ»ÝŒŽj
-I—¹“ú	iŒ»Ý“új
-I—¹Žž	iŒ»ÝŽžj
+ï¼ŠOnGhostChanging
+ï¼„çµ‚äº†å¹´	ï¼ˆç¾åœ¨å¹´ï¼‰
+ï¼„çµ‚äº†æœˆ	ï¼ˆç¾åœ¨æœˆï¼‰
+ï¼„çµ‚äº†æ—¥	ï¼ˆç¾åœ¨æ—¥ï¼‰
+ï¼„çµ‚äº†æ™‚	ï¼ˆç¾åœ¨æ™‚ï¼‰
 
-„‘¼‚ÌƒS[ƒXƒg‚Ö•ÏX
-„‘¼‚ÌƒS[ƒXƒg‚Ö•ÏX‘‚¢	i’Pƒ‹N“®•ªjƒ‚Q
+ï¼žä»–ã®ã‚´ãƒ¼ã‚¹ãƒˆã¸å¤‰æ›´
+ï¼žä»–ã®ã‚´ãƒ¼ã‚¹ãƒˆã¸å¤‰æ›´æ—©ã„	ï¼ˆå˜ç´”èµ·å‹•åˆ†ï¼‰ï¼œï¼ï¼’
 
-–OnInstallBegin
-\p[2]iƒCƒ“ƒXƒg[ƒ‹ŠJŽnBj
+ï¼ŠOnInstallBegin
+\p[2]ï¼ˆã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«é–‹å§‹ã€‚ï¼‰
 
-–OnInstallComplete
-„i‚q‚Pj‚ðƒCƒ“ƒXƒg[ƒ‹
-\p[2]i‚q‚Pj/i‚q‚Oj‚ðƒCƒ“ƒXƒg[ƒ‹‚µ‚Ü‚µ‚½B
-–OnInstallFailure
-\p[2]iƒCƒ“ƒXƒg[ƒ‹Ž¸”sBj
-–OnInstallRefuse
-\p[2]i‚±‚ê‚ÍwicalliƒoƒCƒg’lA‚PjKillDangerousTagiƒoƒCƒg’lA‚Pji‚q‚Ojjxê—p‚Ì‚æ‚¤‚¾Bj
+ï¼ŠOnInstallComplete
+ï¼žï¼ˆï¼²ï¼‘ï¼‰ã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
+\p[2]ï¼ˆï¼²ï¼‘ï¼‰/ï¼ˆï¼²ï¼ï¼‰ã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ã¾ã—ãŸã€‚
+ï¼ŠOnInstallFailure
+\p[2]ï¼ˆã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«å¤±æ•—ã€‚ï¼‰
+ï¼ŠOnInstallRefuse
+\p[2]ï¼ˆã“ã‚Œã¯ã€Žï¼ˆcallï¼ˆãƒã‚¤ãƒˆå€¤ã€ï¼‘ï¼‰KillDangerousTagï¼ˆãƒã‚¤ãƒˆå€¤ã€ï¼‘ï¼‰ï¼ˆï¼²ï¼ï¼‰ï¼‰ã€å°‚ç”¨ã®ã‚ˆã†ã ã€‚ï¼‰
 
-–OnKeyPress
-„i‚q‚Oj‚ª‰Ÿ‚³‚ê‚½
+ï¼ŠOnKeyPress
+ï¼žï¼ˆï¼²ï¼ï¼‰ãŒæŠ¼ã•ã‚ŒãŸ
 
-–OnMusicPlay
-Fwi‚q‚OjxÄ¶ŠJŽn
+ï¼ŠOnMusicPlay
+ï¼šã€Žï¼ˆï¼²ï¼ï¼‰ã€å†ç”Ÿé–‹å§‹
 
 
-–OnNarCreated
-Fi‚Tj«•ï‚Í‚±‚ê‚Ä‚¢‚¢‚Ì‚©‚µ‚çH
+ï¼ŠOnNarCreated
+ï¼šï¼ˆï¼•ï¼‰æ¢±åŒ…ã¯ã“ã‚Œã¦ã„ã„ã®ã‹ã—ã‚‰ï¼Ÿ
 
-–OnNarCreating
-Fi‚Tj‚ ‚çA¬•ï‚ðo‚·‚Ì‚ËH
+ï¼ŠOnNarCreating
+ï¼šï¼ˆï¼•ï¼‰ã‚ã‚‰ã€å°åŒ…ã‚’å‡ºã™ã®ã­ï¼Ÿ
 
-–OnNetworkHeavy
-Fi‚P‚V‚Rj•’i‚æ‚è’x‚¢‚í‚Ëc
-–OnShellChanged
-Fi‚V‚Pj‚Ç‚¤‚©‚µ‚çH
-–OnShellChanging
-Fi‚Tj‚¿‚å‚Á‚Æ•ž‚ð’¼‚µ‚Ä‚­‚é‚íB
+ï¼ŠOnNetworkHeavy
+ï¼šï¼ˆï¼‘ï¼—ï¼“ï¼‰æ™®æ®µã‚ˆã‚Šé…ã„ã‚ã­â€¦
+ï¼ŠOnShellChanged
+ï¼šï¼ˆï¼—ï¼‘ï¼‰ã©ã†ã‹ã—ã‚‰ï¼Ÿ
+ï¼ŠOnShellChanging
+ï¼šï¼ˆï¼•ï¼‰ã¡ã‚‡ã£ã¨æœã‚’ç›´ã—ã¦ãã‚‹ã‚ã€‚
 
 
 
-–OnTalk
-„i‚q‚Pj	i‚q‚Oj
-ƒg[ƒN—”i—”‚P`‚Q‚Sj
-r_talk	ij
-ir_talkj
-–OnUpdate.OnDownloadBegin
-Fi‚q‚Oji‚Tj‚Ó‚Þ‚Ó‚ÞB
+ï¼ŠOnTalk
+ï¼žï¼ˆï¼²ï¼‘ï¼‰	ï¼ˆï¼²ï¼ï¼‰
+ï¼„ãƒˆãƒ¼ã‚¯ä¹±æ•°ï¼ï¼ˆä¹±æ•°ï¼‘ï½žï¼’ï¼”ï¼‰
+ï¼„r_talk	ï¼ˆï¼‰
+ï¼ˆr_talkï¼‰
+ï¼ŠOnUpdate.OnDownloadBegin
+ï¼šï¼ˆï¼²ï¼ï¼‰ï¼ˆï¼•ï¼‰ãµã‚€ãµã‚€ã€‚
 
-” \_q‚ÍƒƒbƒZ[ƒW‚ðˆêu‚Å•\Ž¦‚·‚éu‚³‚­‚çƒXƒNƒŠƒvƒgvB
+ï¼ƒ \_qã¯ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’ä¸€çž¬ã§è¡¨ç¤ºã™ã‚‹ã€Œã•ãã‚‰ã‚¹ã‚¯ãƒªãƒ—ãƒˆã€ã€‚
 
-–OnUpdate.OnMD5CompareBegin
-F\_qi‚q‚OjŽèŽ†‚ÌŽÊ‚µ‚à‚ ‚é‚í‚ËB\_q
+ï¼ŠOnUpdate.OnMD5CompareBegin
+ï¼š\_qï¼ˆï¼²ï¼ï¼‰æ‰‹ç´™ã®å†™ã—ã‚‚ã‚ã‚‹ã‚ã­ã€‚\_q
 
-–OnUpdate.OnMD5CompareComplete
-Fi‚TjŒ³\_q@i‚q‚Pj\_q
+ï¼ŠOnUpdate.OnMD5CompareComplete
+ï¼šï¼ˆï¼•ï¼‰å…ƒ\_qã€€ï¼ˆï¼²ï¼‘ï¼‰\_q
 
-ŽÊ‚µ\_q@i‚q‚Qj\_q
+å†™ã—\_qã€€ï¼ˆï¼²ï¼’ï¼‰\_q
 
-‘åä•v‚ËB
+å¤§ä¸ˆå¤«ã­ã€‚
 
-–OnUpdate.OnMD5CompareFailure
-Fi‚TjŒ³\_q@i‚q‚Pj\_q
+ï¼ŠOnUpdate.OnMD5CompareFailure
+ï¼šï¼ˆï¼•ï¼‰å…ƒ\_qã€€ï¼ˆï¼²ï¼‘ï¼‰\_q
 
-ŽÊ‚µ\_q@i‚q‚Qj\_q
+å†™ã—\_qã€€ï¼ˆï¼²ï¼’ï¼‰\_q
 
-i‚P‚V‚Pjˆê’v‚µ‚È‚¢‚í‚ËA‰½‚©‚ ‚Á‚½‚Ì‚©‚µ‚çH
+ï¼ˆï¼‘ï¼—ï¼‘ï¼‰ä¸€è‡´ã—ãªã„ã‚ã­ã€ä½•ã‹ã‚ã£ãŸã®ã‹ã—ã‚‰ï¼Ÿ
 
 
-–OnUpdateBegin
-Fi‚Tj‚ ‚çA‚—‚T—X•Ö‚È‚ÌH‚—‚X‚—‚T
+ï¼ŠOnUpdateBegin
+ï¼šï¼ˆï¼•ï¼‰ã‚ã‚‰ã€ï½—ï¼•éƒµä¾¿ãªã®ï¼Ÿï½—ï¼™ï½—ï¼•
 
-‰½‚©‚µ‚çH
+ä½•ã‹ã—ã‚‰ï¼Ÿ
 
-–OnUpdateComplete
-„ƒlƒbƒgƒ[ƒNXVi‚q‚Oj
-ŽèŽ†‚ËB‚—‚X‚—‚T
+ï¼ŠOnUpdateComplete
+ï¼žãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯æ›´æ–°ï¼ˆï¼²ï¼ï¼‰
+æ‰‹ç´™ã­ã€‚ï½—ï¼™ï½—ï¼•
 
-i‚q‚Oj‚Æ‚Ì•ñ‚ª‚ ‚Á‚½‚íB
-–OnUpdatedataCreated
-Fi‚TjŠ®—¹‚µ‚½‚íB
+ï¼ˆï¼²ï¼ï¼‰ã¨ã®å ±å‘ŠãŒã‚ã£ãŸã‚ã€‚
+ï¼ŠOnUpdatedataCreated
+ï¼šï¼ˆï¼•ï¼‰å®Œäº†ã—ãŸã‚ã€‚
 
-–OnUpdatedataCreating
-Fi‚Tjupdates2.dauì¬‚ËB
+ï¼ŠOnUpdatedataCreating
+ï¼šï¼ˆï¼•ï¼‰updates2.dauä½œæˆã­ã€‚
 
-–OnUpdateFailure
-„ƒlƒbƒgƒ[ƒNXVi‚q‚Oj
-i‚P‚V‚Pj”z’B‚É–â‘è‚ª—L‚é‚í‚ËB‚—‚X‚—‚T
+ï¼ŠOnUpdateFailure
+ï¼žãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯æ›´æ–°ï¼ˆï¼²ï¼ï¼‰
+ï¼ˆï¼‘ï¼—ï¼‘ï¼‰é…é”ã«å•é¡ŒãŒæœ‰ã‚‹ã‚ã­ã€‚ï½—ï¼™ï½—ï¼•
 
-i‚P‚V‚Rj——R‚Íi‚q‚Oj‚¾‚»‚¤‚æB
+ï¼ˆï¼‘ï¼—ï¼“ï¼‰ç†ç”±ã¯ï¼ˆï¼²ï¼ï¼‰ã ãã†ã‚ˆã€‚
 
-–OnUpdateReady
-F
-i‚TjŽèŽ†‚Íi‚q‚Oj–‡‚ ‚é‚í‚ËB
+ï¼ŠOnUpdateReady
+ï¼š
+ï¼ˆï¼•ï¼‰æ‰‹ç´™ã¯ï¼ˆï¼²ï¼ï¼‰æžšã‚ã‚‹ã‚ã­ã€‚
 
-–OnURLDropped
-ƒ_ƒEƒ“ƒ[ƒh‚ªI‚è‚Ü‚µ‚½B
-ƒtƒ@ƒCƒ‹‚Í\_qi‚q‚Oj\_q‚É‚ ‚è‚Ü‚·B
+ï¼ŠOnURLDropped
+ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ãŒçµ‚ã‚Šã¾ã—ãŸã€‚
+ãƒ•ã‚¡ã‚¤ãƒ«ã¯\_qï¼ˆï¼²ï¼ï¼‰\_qã«ã‚ã‚Šã¾ã™ã€‚
 
 
 
-”--------------------------------------------------------------------
-”
-”@ŽžŠÔƒCƒxƒ“ƒg‚Ö‚ÌƒWƒƒƒ“ƒvetc...
-”
+ï¼ƒ--------------------------------------------------------------------
+ï¼ƒ
+ï¼ƒã€€æ™‚é–“ã‚¤ãƒ™ãƒ³ãƒˆã¸ã®ã‚¸ãƒ£ãƒ³ãƒ—etc...
+ï¼ƒ
 
 
-–OnURLDropping
-F
-\_qi‚q‚Oj\_q‚©‚çƒ_ƒEƒ“ƒ[ƒh’†‚Å‚·B
+ï¼ŠOnURLDropping
+ï¼š
+\_qï¼ˆï¼²ï¼ï¼‰\_qã‹ã‚‰ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ä¸­ã§ã™ã€‚
 
-–OnUserInput
-„i‚q‚Oj‚ðƒ^ƒCƒ€ƒAƒEƒg	icompare,i‚q‚Pj,timeoutj
-„i‚q‚Oj‚ð‹ó‘Å‚¿‚³‚ê‚½	iis_empty,i‚q‚Pjj
-i‚q‚Oj	i‚q‚Pj
-„i‚q‚Oj‚ð‹³‚¦‚Ä‚à‚ç‚Á‚½
+ï¼ŠOnUserInput
+ï¼žï¼ˆï¼²ï¼ï¼‰ã‚’ã‚¿ã‚¤ãƒ ã‚¢ã‚¦ãƒˆ	ï¼ˆcompare,ï¼ˆï¼²ï¼‘ï¼‰,timeoutï¼‰
+ï¼žï¼ˆï¼²ï¼ï¼‰ã‚’ç©ºæ‰“ã¡ã•ã‚ŒãŸ	ï¼ˆis_empty,ï¼ˆï¼²ï¼‘ï¼‰ï¼‰
+ï¼„ï¼ˆï¼²ï¼ï¼‰	ï¼ˆï¼²ï¼‘ï¼‰
+ï¼žï¼ˆï¼²ï¼ï¼‰ã‚’æ•™ãˆã¦ã‚‚ã‚‰ã£ãŸ
 
-”„’‚èŠÔŠuŒˆ’è	iR‚Oj’‚èŠÔŠu
-”„’a¶ŒŽˆ—	iR‚Oj’a¶ŒŽ
-”„’a¶“úˆ—	iR‚Oj’a¶“ú
+ï¼ƒï¼žå–‹ã‚Šé–“éš”æ±ºå®š	ï¼ˆRï¼ï¼‰ï¼ï¼å–‹ã‚Šé–“éš”
+ï¼ƒï¼žèª•ç”Ÿæœˆå‡¦ç†	ï¼ˆRï¼ï¼‰ï¼ï¼èª•ç”Ÿæœˆ
+ï¼ƒï¼žèª•ç”Ÿæ—¥å‡¦ç†	ï¼ˆRï¼ï¼‰ï¼ï¼èª•ç”Ÿæ—¥
 
-” OnUserInputCancel‘Îô
-” http://crow.aqrs.jp/reference/all/Shiori/main.html#OnUserInputCancel
-” ƒTƒ“ƒvƒ‹‚Æ‚µ‚Äƒ†[ƒU–¼‚ð‹ó‘Å‚¿‚³‚ê‚½‚Ö”ò‚Î‚µ‚Ä‚Ü‚·B
+ï¼ƒ OnUserInputCancelå¯¾ç­–
+ï¼ƒ http://crow.aqrs.jp/reference/all/Shiori/main.html#OnUserInputCancel
+ï¼ƒ ã‚µãƒ³ãƒ—ãƒ«ã¨ã—ã¦ãƒ¦ãƒ¼ã‚¶åã‚’ç©ºæ‰“ã¡ã•ã‚ŒãŸã¸é£›ã°ã—ã¦ã¾ã™ã€‚
 
-–OnUserInputCancel
-„i‚q‚Oj‚ð‹ó‘Å‚¿‚³‚ê‚½	icompare,i‚q‚Pj,closej
+ï¼ŠOnUserInputCancel
+ï¼žï¼ˆï¼²ï¼ï¼‰ã‚’ç©ºæ‰“ã¡ã•ã‚ŒãŸ	ï¼ˆcompare,ï¼ˆï¼²ï¼‘ï¼‰,closeï¼‰
 
-–OnVanishButtonHold
-”„ƒCƒ“ƒXƒg[ƒ‹’¼Œã‚ÌÁ–Åˆ—’†’f	iƒCƒ“ƒXƒg[ƒ‹’¼Œãj
-Fi‚P‚V‚Pj’¼‚Á‚½‚í‚ËB‚—‚X‚—‚T
-F‚±‚ÌpŽ®‚ðÅ‰‚©‚ç‚â‚è’¼‚·‚Ì‚Í–Ê“|‚¾‚©‚ç•‚©‚Á‚½B
-F
-i‚Tj‚»‚ê‚à‚»‚¤‚ËB
+ï¼ŠOnVanishButtonHold
+ï¼ƒï¼žã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ç›´å¾Œã®æ¶ˆæ»…å‡¦ç†ä¸­æ–­	ï¼ˆã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ç›´å¾Œï¼‰
+ï¼šï¼ˆï¼‘ï¼—ï¼‘ï¼‰ç›´ã£ãŸã‚ã­ã€‚ï½—ï¼™ï½—ï¼•
+ï¼šã“ã®è¡“å¼ã‚’æœ€åˆã‹ã‚‰ã‚„ã‚Šç›´ã™ã®ã¯é¢å€’ã ã‹ã‚‰åŠ©ã‹ã£ãŸã€‚
+ï¼š
+ï¼ˆï¼•ï¼‰ãã‚Œã‚‚ãã†ã­ã€‚
 
 
-–OnVanishCancel
-„ƒCƒ“ƒXƒg[ƒ‹’¼Œã‚ÉÁ–ÅŽwŽ¦ƒLƒƒƒ“ƒZƒ‹	iƒCƒ“ƒXƒg[ƒ‹’¼Œãj
+ï¼ŠOnVanishCancel
+ï¼žã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ç›´å¾Œã«æ¶ˆæ»…æŒ‡ç¤ºã‚­ãƒ£ãƒ³ã‚»ãƒ«	ï¼ˆã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ç›´å¾Œï¼‰
 
 
-–OnVanished
-”„i‚q‚Oj‚ªÁ‚³‚ê‚½
+ï¼ŠOnVanished
+ï¼ƒï¼žï¼ˆï¼²ï¼ï¼‰ãŒæ¶ˆã•ã‚ŒãŸ
 
 
-–OnWindowStateRestore
-Fi‚TjH
+ï¼ŠOnWindowStateRestore
+ï¼šï¼ˆï¼•ï¼‰ï¼Ÿ
 
 
-–r‚ª‰Ÿ‚³‚ê‚½
-Ž«‘ƒŠƒ[ƒh	ŽÀs
-Fi‚Tj‚è‚ë[‚Ç‚µ‚½‚íB
-–t‚ª‰Ÿ‚³‚ê‚½
-„OnTalk
+ï¼ŠrãŒæŠ¼ã•ã‚ŒãŸ
+ï¼„è¾žæ›¸ãƒªãƒ­ãƒ¼ãƒ‰	å®Ÿè¡Œ
+ï¼šï¼ˆï¼•ï¼‰ã‚Šã‚ãƒ¼ã©ã—ãŸã‚ã€‚
+ï¼ŠtãŒæŠ¼ã•ã‚ŒãŸ
+ï¼žOnTalk
 
 
-–ƒCƒ“ƒXƒg[ƒ‹’¼Œã‚ÉÁ–Å
+ï¼Šã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ç›´å¾Œã«æ¶ˆæ»…
 
 
 
-–ƒCƒ“ƒXƒg[ƒ‹’¼Œã‚ÉÁ–ÅŽwŽ¦
+ï¼Šã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ç›´å¾Œã«æ¶ˆæ»…æŒ‡ç¤º
 
 
-–ƒCƒ“ƒXƒg[ƒ‹’¼Œã‚ÉÁ–ÅŽwŽ¦ƒLƒƒƒ“ƒZƒ‹
+ï¼Šã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ç›´å¾Œã«æ¶ˆæ»…æŒ‡ç¤ºã‚­ãƒ£ãƒ³ã‚»ãƒ«
 
-–ƒCƒ“ƒXƒg[ƒ‹’¼Œã‚ÌÁ–Åˆ—’†’f
+ï¼Šã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ç›´å¾Œã®æ¶ˆæ»…å‡¦ç†ä¸­æ–­
 
 
-–ƒlƒbƒgƒ[ƒNXV404
-Fi‚P‚V‚Pj—X•Ö‹Ç‚ªÁ‚¦‚½‚»‚¤‚æB‚—‚X‚—‚T
+ï¼Šãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯æ›´æ–°404
+ï¼šï¼ˆï¼‘ï¼—ï¼‘ï¼‰éƒµä¾¿å±€ãŒæ¶ˆãˆãŸãã†ã‚ˆã€‚ï½—ï¼™ï½—ï¼•
 
-i‚P‚V‚Rj‰½‚©‚ ‚Á‚½‚Ì‚©‚µ‚çH
+ï¼ˆï¼‘ï¼—ï¼“ï¼‰ä½•ã‹ã‚ã£ãŸã®ã‹ã—ã‚‰ï¼Ÿ
 
 
-–ƒlƒbƒgƒ[ƒNXVartificial
-Fi‚P‚V‚Pj‚ ‚È‚½H‚—‚X‚—‚T
+ï¼Šãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯æ›´æ–°artificial
+ï¼šï¼ˆï¼‘ï¼—ï¼‘ï¼‰ã‚ãªãŸï¼Ÿï½—ï¼™ï½—ï¼•
 
-‰½‚ª‹}‚È—pŽ–‚ª‚ ‚é‚ÌH
+ä½•ãŒæ€¥ãªç”¨äº‹ãŒã‚ã‚‹ã®ï¼Ÿ
 
 
 
-–ƒlƒbƒgƒ[ƒNXVchanged
-ƒlƒbƒgƒ[ƒNXVA–³Ž–I—¹‚µ‚Ü‚µ‚½B
+ï¼Šãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯æ›´æ–°changed
+ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯æ›´æ–°ã€ç„¡äº‹çµ‚äº†ã—ã¾ã—ãŸã€‚
 
 
-–ƒlƒbƒgƒ[ƒNXVmd5 miss
-ƒf[ƒ^‚ªˆê’v‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B
+ï¼Šãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯æ›´æ–°md5 miss
+ãƒ‡ãƒ¼ã‚¿ãŒä¸€è‡´ã—ã¾ã›ã‚“ã§ã—ãŸã€‚
 
-‚æ‚Ù‚Ç‰ñüó‘Ô‚ªˆ«‚¢‚Ì‚©A‚»‚ê‚Æ‚àupdates2.dau•Ó‚è‚ª‚¨‚©‚µ‚¢‚Ì‚©‚à‚µ‚ê‚Ü‚¹‚ñB
+ã‚ˆã»ã©å›žç·šçŠ¶æ…‹ãŒæ‚ªã„ã®ã‹ã€ãã‚Œã¨ã‚‚updates2.dauè¾ºã‚ŠãŒãŠã‹ã—ã„ã®ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ã€‚
 
-–ƒlƒbƒgƒ[ƒNXVnone
-Fi‚Oj¡‚Í”z’B•¨‚ª‚È‚¢‚¾‚Á‚ÄB
+ï¼Šãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯æ›´æ–°none
+ï¼šï¼ˆï¼ï¼‰ä»Šã¯é…é”ç‰©ãŒãªã„ã ã£ã¦ã€‚
 
-–ƒlƒbƒgƒ[ƒNXVtimeout
-Fi‚P‚V‚Pja‘Ø‚ª‹N‚«‚Ä¡‚Í”z’B•¨‚ð“Í‚¯‚È‚¢‚¾‚»‚¤‚æB‚—‚X‚—‚T
+ï¼Šãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯æ›´æ–°timeout
+ï¼šï¼ˆï¼‘ï¼—ï¼‘ï¼‰æ¸‹æ»žãŒèµ·ãã¦ä»Šã¯é…é”ç‰©ã‚’å±Šã‘ãªã„ã ãã†ã‚ˆã€‚ï½—ï¼™ï½—ï¼•
 
-i‚P‚V‚Rj‘å‚µ‚½‚±‚Æ‚¶‚á‚È‚¯‚ê‚Î‚¢‚¢‚¯‚ê‚Çc
+ï¼ˆï¼‘ï¼—ï¼“ï¼‰å¤§ã—ãŸã“ã¨ã˜ã‚ƒãªã‘ã‚Œã°ã„ã„ã‘ã‚Œã©â€¦
 
 
-–OnVanishSelected
-”„ƒCƒ“ƒXƒg[ƒ‹’¼Œã‚ÉÁ–Å	iƒCƒ“ƒXƒg[ƒ‹’¼Œãj
-–OnVanishSelecting
-ƒCƒ“ƒXƒg[ƒ‹’¼Œãi—ÝŒvŽžj<1&&i—ÝŒv•ªj<3
-”„ƒCƒ“ƒXƒg[ƒ‹’¼Œã‚ÉÁ–ÅŽwŽ¦	iƒCƒ“ƒXƒg[ƒ‹’¼Œãj
+ï¼ŠOnVanishSelected
+ï¼ƒï¼žã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ç›´å¾Œã«æ¶ˆæ»…	ï¼ˆã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ç›´å¾Œï¼‰
+ï¼ŠOnVanishSelecting
+ï¼„ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ç›´å¾Œï¼ï¼ˆç´¯è¨ˆæ™‚ï¼‰<1&&ï¼ˆç´¯è¨ˆåˆ†ï¼‰<3
+ï¼ƒï¼žã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ç›´å¾Œã«æ¶ˆæ»…æŒ‡ç¤º	ï¼ˆã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ç›´å¾Œï¼‰
