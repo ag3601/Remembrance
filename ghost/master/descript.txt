@@ -1,12 +1,12 @@
-charset,Shift_JIS
-name,リメンブランス
+charset,UTF-8
+name,繝ｪ繝｡繝ｳ繝悶Λ繝ｳ繧ｹ
 type,ghost
 craftman,AG36
 craftmanw,AG36
 craftmanurl,https://twitter.com/AG3601
 readme,readme.txt
-sakura.name,エヴァレイン
-kero.name,グレアム
+sakura.name,繧ｨ繝ｴ繧｡繝ｬ繧､繝ｳ
+kero.name,繧ｰ繝ｬ繧｢繝
 sakura.seriko.defaultsurface,0
 kero.seriko.defaultsurface,10
 balloon.defaultsurface,0

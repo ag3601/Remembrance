@@ -1,143 +1,143 @@
 
-”@-----------------------------------------------------
-”@
-”@shioriŒİŠ·dllw—¢Xi‚³‚Æ‚èjx—p«‘
-”@
-”@ƒƒjƒ…[‚Ìƒ{ƒ^ƒ“–¼‚Æ‚©B@
-”@ƒlƒbƒgƒ[ƒNXV‚ÌÛ‚Ìƒf[ƒ^’u‚«ê‚Æ‚©B@
-”@‚¨‚·‚·‚ß^ƒ|[ƒ^ƒ‹‚ÈURL‚Ìˆê——‚Æ‚©B@
-”@
-”@-----------------------------------------------------
+ï¼ƒã€€-----------------------------------------------------
+ï¼ƒã€€
+ï¼ƒã€€shioriäº’æ›dllã€é‡Œã€…ï¼ˆã•ã¨ã‚Šï¼‰ã€ç”¨è¾æ›¸
+ï¼ƒã€€
+ï¼ƒã€€ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã®ãƒœã‚¿ãƒ³åã¨ã‹ã€‚ã€€
+ï¼ƒã€€ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯æ›´æ–°ã®éš›ã®ãƒ‡ãƒ¼ã‚¿ç½®ãå ´ã¨ã‹ã€‚ã€€
+ï¼ƒã€€ãŠã™ã™ã‚ï¼ãƒãƒ¼ã‚¿ãƒ«ãªURLã®ä¸€è¦§ã¨ã‹ã€‚ã€€
+ï¼ƒã€€
+ï¼ƒã€€-----------------------------------------------------
 
 
 
-—callghostrootbutton.caption
-’N‚ğŒÄ‚Ño‚·‚ÌH
+ï¼ callghostrootbutton.caption
+èª°ã‚’å‘¼ã³å‡ºã™ã®ï¼Ÿ
 
-—closebutton.caption
-È‚ğ—£‚ê‚é
+ï¼ closebutton.caption
+å¸­ã‚’é›¢ã‚Œã‚‹
 
-—configurationrootbutton.caption
-‚¢‚ë‚¢‚ëİ’è‚Å‚«‚é‚í
+ï¼ configurationrootbutton.caption
+ã„ã‚ã„ã‚è¨­å®šã§ãã‚‹ã‚
 
-—elpbutton.caption
-•Ö—˜‚È‹@”\‚ª‚ ‚é‚ç‚µ‚¢‚í
+ï¼ elpbutton.caption
+ä¾¿åˆ©ãªæ©Ÿèƒ½ãŒã‚ã‚‹ã‚‰ã—ã„ã‚
 
-—ghostrootbutton.caption
-o‚©‚¯‚é‚ÌH
+ï¼ ghostrootbutton.caption
+å‡ºã‹ã‘ã‚‹ã®ï¼Ÿ
 
-—helpbutton.caption
-ƒx[ƒXƒEƒFƒA‚Ìà–¾‘‚æ
+ï¼ helpbutton.caption
+ãƒ™ãƒ¼ã‚¹ã‚¦ã‚§ã‚¢ã®èª¬æ˜æ›¸ã‚ˆ
 
-—homeurl
+ï¼ homeurl
 https://raw.githubusercontent.com/ag3601/Remembrance/master/
 
-”ƒlƒbƒgƒ[ƒNXV‚ÉƒAƒNƒZƒX‚·‚éƒAƒhƒŒƒXB
-”ƒtƒHƒ‹ƒ_–¼‚ğ‹LqAÅŒã‚É/‚ğ‚Â‚¯‚Ä‚­‚¾‚³‚¢B—á‚Ì‚æ‚¤‚ÈŒ`‚É‚È‚è‚Ü‚·B
-”—áhttp://red_post.sakura.ne.jp/R_POST_and_KOMAINU/
+ï¼ƒãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯æ›´æ–°æ™‚ã«ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹ã‚¢ãƒ‰ãƒ¬ã‚¹ã€‚
+ï¼ƒãƒ•ã‚©ãƒ«ãƒ€åã‚’è¨˜è¿°ã€æœ€å¾Œã«/ã‚’ã¤ã‘ã¦ãã ã•ã„ã€‚ä¾‹ã®ã‚ˆã†ãªå½¢ã«ãªã‚Šã¾ã™ã€‚
+ï¼ƒä¾‹http://red_post.sakura.ne.jp/R_POST_and_KOMAINU/
 
-—inforootbutton.caption
-–{‚ÌR
+ï¼ inforootbutton.caption
+æœ¬ã®å±±
 
-—kero.recommendbuttoncaption
-‚P‚Ì‚¨‚·‚·‚ß(&R)
+ï¼ kero.recommendbuttoncaption
+ï¿¥ï¼‘ã®ãŠã™ã™ã‚(&R)
 
-—pluginrootbutton.caption
-ƒvƒ‰ƒOƒCƒ“‚æ
+ï¼ pluginrootbutton.caption
+ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã‚ˆ
 
-—portalrootbutton.caption
-f‚©ŠÖŒW‚ÌƒŠƒ“ƒN
-”iUj‚¾‚¯‚ÌA‚¨‚·‚·‚ßƒÓcB(&P)
+ï¼ portalrootbutton.caption
+ä¼ºã‹é–¢ä¿‚ã®ãƒªãƒ³ã‚¯
+ï¼ƒï¼ˆUï¼‰ã ã‘ã®ã€ãŠã™ã™ã‚Ï†â€¦ã€‚(&P)
 
-—rateofuseballoonbutton.caption
-ƒoƒ‹[ƒ“‚Ì•ÏX‚Í‚±‚±‚æ
+ï¼ rateofuseballoonbutton.caption
+ãƒãƒ«ãƒ¼ãƒ³ã®å¤‰æ›´ã¯ã“ã“ã‚ˆ
 
-—readmebutton.caption
-’ˆÓ‘‚«‚æ
+ï¼ readmebutton.caption
+æ³¨æ„æ›¸ãã‚ˆ
 
-—recommendrootbutton.caption
-Œ´ì‚Ö
+ï¼ recommendrootbutton.caption
+åŸä½œã¸
 
-–sakura.portalsites
-f‚©‚Ì‚ ‚»‚Ñ‚©‚½ƒÓiFIRST@GUIDEƒÓj@
-http://haka.sakura.ne.jp/guide/@
+ï¼Šsakura.portalsites
+ä¼ºã‹ã®ã‚ãã³ã‹ãŸÏ†ï¼ˆFIRSTã€€GUIDEÏ†ï¼‰ã€€
+http://haka.sakura.ne.jp/guide/ã€€
 
-–sakura.portalsites
-UKADOC@
+ï¼Šsakura.portalsites
+UKADOCã€€
 http://ssp.shillest.net/ukadoc/manual/index.html
 
-–sakura.portalsites
-—¢XWiki
+ï¼Šsakura.portalsites
+é‡Œã€…Wiki
 http://soliton.sub.jp/satori/index.php?FrontPage
-\h—¢X‚ÉŠÖ‚·‚é‚s‚‰‚‚ª‚Ü‚Æ‚Ü‚Á‚Ä‚¢‚é‚æ‚¤‚È‹C‚ª‚µ‚Ü‚·B
+\hé‡Œã€…ã«é–¢ã™ã‚‹ï¼´ï½‰ï½ãŒã¾ã¨ã¾ã£ã¦ã„ã‚‹ã‚ˆã†ãªæ°—ãŒã—ã¾ã™ã€‚
 
-–sakura.portalsites
-ƒS[ƒXƒgƒLƒƒƒvƒ^[‚³‚­‚çiGC‚³‚­‚çj
+ï¼Šsakura.portalsites
+ã‚´ãƒ¼ã‚¹ãƒˆã‚­ãƒ£ãƒ—ã‚¿ãƒ¼ã•ãã‚‰ï¼ˆGCã•ãã‚‰ï¼‰
 http://buynowforsale.shillest.net/ghosts/
 
-–sakura.portalsites
+ï¼Šsakura.portalsites
 -
 
-–sakura.portalsites
-—¢XƒÓ/®”õ”ÇƒJƒXƒ^ƒ€
+ï¼Šsakura.portalsites
+é‡Œã€…Ï†/æ•´å‚™ç­ã‚«ã‚¹ã‚¿ãƒ 
 http://ms.shillest.net/
-\hŒ»“_‚ÅXV‚³‚ê‚Ä‚¢‚é—¢X‚Å‚·B
+\hç¾æ™‚ç‚¹ã§æ›´æ–°ã•ã‚Œã¦ã„ã‚‹é‡Œã€…ã§ã™ã€‚
 
-–sakura.portalsites
-SSP@BUGTRAQ@
-http://ssp.shillest.net/@
-„§ƒx[ƒXƒEƒFƒAB
-‘¼‚Ì‚ÍXV‚ª~‚Ü‚Á‚Ä‚éB
+ï¼Šsakura.portalsites
+SSPã€€BUGTRAQã€€
+http://ssp.shillest.net/ã€€
+æ¨å¥¨ãƒ™ãƒ¼ã‚¹ã‚¦ã‚§ã‚¢ã€‚
+ä»–ã®ã¯æ›´æ–°ãŒæ­¢ã¾ã£ã¦ã‚‹ã€‚
 
 
-–sakura.portalsites
+ï¼Šsakura.portalsites
 -
 
-–sakura.portalsites
-‰\‚Æ•]”»[‰ü]@‰ß‹ƒƒO•ÛŠÇŒÉ+@
+ï¼Šsakura.portalsites
+å™‚ã¨è©•åˆ¤[æ”¹]ã€€éå»ãƒ­ã‚°ä¿ç®¡åº«+ã€€
 https://ghostreview.sakura.ne.jp/
 
-–sakura.portalsites
-ƒS[ƒXƒg‰ñ——”Â‚R‚’‚„
+ï¼Šsakura.portalsites
+ã‚´ãƒ¼ã‚¹ãƒˆå›è¦§æ¿ï¼“ï½’ï½„
 http://jbbs.shitaraba.net/computer/44300/
 
-–sakura.recommendsites
-–ò‚Ì–‚•¨‚Ì‰ğŒÙ——R
+ï¼Šsakura.recommendsites
+è–¬ã®é­”ç‰©ã®è§£é›‡ç†ç”±
 https://ncode.syosetu.com/n2357dn/
 
-–sakura.recommendsites
-–ò‚Ì–‚•¨‚ÌŒp‘±——R
+ï¼Šsakura.recommendsites
+è–¬ã®é­”ç‰©ã®ç¶™ç¶šç†ç”±
 https://ncode.syosetu.com/n1031fh/
 
-”–sakura.portalsites
-”-
-”u-v‚Æ‚¢‚ê‚é‚±‚Æ‚ÅƒŠƒ“ƒNƒƒjƒ…[‚ÉŒrü‚ğˆø‚­‚±‚Æ‚ª‚Å‚«‚Ü‚·B@
+ï¼ƒï¼Šsakura.portalsites
+ï¼ƒ-
+ï¼ƒã€Œ-ã€ã¨ã„ã‚Œã‚‹ã“ã¨ã§ãƒªãƒ³ã‚¯ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã«ç½«ç·šã‚’å¼•ãã“ã¨ãŒã§ãã¾ã™ã€‚ã€€
 
 
-—saveasdefaultbutton.caption
-¡‚Ìİ’è‚ğ‘S•”‚ÌƒS[ƒXƒg‚³‚ñ‚É”½‰f‚³‚¹‚ç‚ê‚Ü‚·ƒÓcB
+ï¼ saveasdefaultbutton.caption
+ä»Šã®è¨­å®šã‚’å…¨éƒ¨ã®ã‚´ãƒ¼ã‚¹ãƒˆã•ã‚“ã«åæ˜ ã•ã›ã‚‰ã‚Œã¾ã™Ï†â€¦ã€‚
 
-—dressuprootbutton.caption
-‹C‚É‚È‚é•‚ğƒŠƒNƒGƒXƒg‚µ‚Ä‚¢‚¢‚í‚æ
+ï¼ dressuprootbutton.caption
+æ°—ã«ãªã‚‹æœã‚’ãƒªã‚¯ã‚¨ã‚¹ãƒˆã—ã¦ã„ã„ã‚ã‚ˆ
 
-—shellscalerootbutton.caption
-‚à‚Á‚Æ‚­‚Â‚¯‚Ä
+ï¼ shellscalerootbutton.caption
+ã‚‚ã£ã¨ãã¤ã‘ã¦
 
-—shellscalerootbutton.caption
-‚à‚Á‚Æ„‚É‹ßŠñ‚Á‚Ä
+ï¼ shellscalerootbutton.caption
+ã‚‚ã£ã¨ç§ã«è¿‘å¯„ã£ã¦
 
-—updatebutton.caption
-XV
+ï¼ updatebutton.caption
+æ›´æ–°
 
-—username
-iƒ†[ƒU–¼j@
+ï¼ username
+ï¼ˆãƒ¦ãƒ¼ã‚¶åï¼‰ã€€
 
-—vanishbutton.caption
-Á–Å(&F)
-ƒAƒ“ƒCƒ“ƒXƒg[ƒ‹(&F)
+ï¼ vanishbutton.caption
+æ¶ˆæ»…(&F)
+ã‚¢ãƒ³ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«(&F)
 
-—vanishbutton.visible
-iÁ–Åƒ{ƒ^ƒ“j
+ï¼ vanishbutton.visible
+ï¼ˆæ¶ˆæ»…ãƒœã‚¿ãƒ³ï¼‰
 
-”Á–Åw¦‚ğ•\¦‚·‚é‚©‚Ç‚¤‚©B1‚Å•\¦A0‚Å”ñ•\¦iF‚ª•Ï‚í‚è‘I‘ğ‚Å‚«‚È‚­‚È‚éj‚Å‚·B
+ï¼ƒæ¶ˆæ»…æŒ‡ç¤ºã‚’è¡¨ç¤ºã™ã‚‹ã‹ã©ã†ã‹ã€‚1ã§è¡¨ç¤ºã€0ã§éè¡¨ç¤ºï¼ˆè‰²ãŒå¤‰ã‚ã‚Šé¸æŠã§ããªããªã‚‹ï¼‰ã§ã™ã€‚
 
