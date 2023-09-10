@@ -1,5 +1,5 @@
-charset,Shift_JIS
-name,ƒŠƒƒ“ƒuƒ‰ƒ“ƒX
+charset,UTF-8
+name,ãƒªãƒ¡ãƒ³ãƒ–ãƒ©ãƒ³ã‚¹
 type,ghost
 directory,Remembrance
 refresh,0

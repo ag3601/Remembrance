@@ -1,4 +1,4 @@
-Charset,Shift_JIS
+Charset,UTF-8
 type,shell
 name,master
 directory,master
